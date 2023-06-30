@@ -1,0 +1,703 @@
+id,soldDate,latitude,longitude,floorSize,beds,bathrooms,url,address,city,state,zipCode,price
+zpid_103031627,for sale,26.130796,-80.17469,1426,3,2,https://www.zillow.com/homedetails/655-NW-24th-Ave-Fort-Lauderdale-FL-33311/103031627_zpid/,655 NW 24th Ave,Fort Lauderdale,FL,33311,520000
+zpid_103032796,for sale,26.126743,-80.170975,1982,4,3,https://www.zillow.com/homedetails/431-NW-21st-Ter-Fort-Lauderdale-FL-33311/103032796_zpid/,431 NW 21st Ter,Fort Lauderdale,FL,33311,599000
+zpid_103167224,for sale,26.280912,-81.53127,2431,4,3,https://www.zillow.com/homedetails/3780-27th-Ave-NE-Naples-FL-34120/103167224_zpid/,3780 27th Ave NE,Naples,FL,34120,799900
+zpid_112718584,for sale,26.04411,-80.26053,3130,4,3,https://www.zillow.com/homedetails/8537-NW-41st-St-Cooper-City-FL-33024/112718584_zpid/,8537 NW 41st St,Cooper City,FL,33024,1225000
+zpid_113379025,for sale,25.78521,-80.2259,935,2,2,https://www.zillow.com/homedetails/1861-NW-South-River-Dr-UNIT-1403-Miami-FL-33125/113379025_zpid/,1861 NW South River Dr UNIT 1403,Miami,FL,33125,430000
+zpid_117471837,for sale,26.033298,-80.253746,2860,4,3,https://www.zillow.com/homedetails/2824-NW-83rd-Ter-Cooper-City-FL-33024/117471837_zpid/,2824 NW 83rd Ter,Cooper City,FL,33024,1295000
+zpid_121231960,for sale,25.854944,-80.35758,3128,4,4,https://www.zillow.com/homedetails/9855-NW-89th-Ter-Doral-FL-33178/121231960_zpid/,9855 NW 89th Ter,Doral,FL,33178,900000
+zpid_121340069,for sale,25.986078,-80.12257,1030,2,2,https://www.zillow.com/homedetails/2602-E-Hallandale-Beach-Blvd-R1107-Hallandale-FL-33009/121340069_zpid/,2602 E Hallandale Beach Blvd #R1107,Hallandale,FL,33009,569000
+zpid_121673008,for sale,25.903034,-80.35358,2992,5,5,https://www.zillow.com/homedetails/8852-W-34th-Ct-Hialeah-FL-33018/121673008_zpid/,8852 W 34th Ct,Hialeah,FL,33018,799000
+zpid_121673282,for sale,25.854485,-80.36205,2462,3,3,https://www.zillow.com/homedetails/10086-NW-89th-Ter-Doral-FL-33178/121673282_zpid/,10086 NW 89th Ter,Doral,FL,33178,960000
+zpid_122018942,for sale,25.85424,-80.36641,2462,3,3,https://www.zillow.com/homedetails/8860-NW-99th-Path-Doral-FL-33178/122018942_zpid/,8860 NW 99th Path,Doral,FL,33178,799000
+zpid_155818560,for sale,25.742464,-80.21829,4101,5,6,https://www.zillow.com/homedetails/1621-S-Bayshore-Dr-Miami-FL-33133/155818560_zpid/,1621 S Bayshore Dr,Miami,FL,33133,4450000
+zpid_156159086,for sale,25.834312,-80.22645,2224,6,4,https://www.zillow.com/homedetails/1775-NW-65th-St-Miami-FL-33147/156159086_zpid/,1775 NW 65th St,Miami,FL,33147,810000
+zpid_156309062,for sale,25.658459,-80.359665,2031,4,3,https://www.zillow.com/homedetails/10252-SW-119th-St-Miami-FL-33176/156309062_zpid/,10252 SW 119th St,Miami,FL,33176,925000
+zpid_156486740,for sale,25.834446,-80.367516,6355,6,7,https://www.zillow.com/homedetails/10498-NW-67th-Ter-Doral-FL-33178/156486740_zpid/,10498 NW 67th Ter,Doral,FL,33178,3300000
+zpid_162032768,for sale,25.842676,-80.36102,3624,4,4,https://www.zillow.com/homedetails/10067-NW-75th-Ter-Doral-FL-33178/162032768_zpid/,10067 NW 75th Ter,Doral,FL,33178,1350000
+zpid_162033852,for sale,25.841393,-80.36039,3690,5,5,https://www.zillow.com/homedetails/7442-NW-100th-Ave-Doral-FL-33178/162033852_zpid/,7442 NW 100th Ave,Doral,FL,33178,1385000
+zpid_2057173362,for sale,25.945347,-80.1408,1066,1,2,https://www.zillow.com/homedetails/2851-NE-183rd-St-APT-105-North-Miami-Beach-FL-33160/2057173362_zpid/,2851 NE 183rd St APT 105,North Miami Beach,FL,33160,210000
+zpid_2057181082,for sale,26.254705,-80.16903,1155,2,2,https://www.zillow.com/homedetails/1804-Eleuthera-Poin-APT-N2-Pompano-Beach-FL-33066/2057181082_zpid/,1804 Eleuthera Poin APT N2,Pompano Beach,FL,33066,199000
+zpid_2057181733,for sale,26.266068,-80.17948,1385,2,2,https://www.zillow.com/homedetails/4134-Carambola-Cir-S-205-Pompano-Beach-FL-33066/2057181733_zpid/,4134 Carambola Cir S #205,Pompano Beach,FL,33066,275000
+zpid_2057182751,for sale,26.042307,-81.67033,984,1,2,https://www.zillow.com/homedetails/159-Cheetah-Dr-159-Naples-FL-34114/2057182751_zpid/,159 Cheetah Dr #159,Naples,FL,34114,180000
+zpid_2057185391,for sale,26.293407,-81.813705,1498,3,2,https://www.zillow.com/homedetails/585-Club-Side-Dr-3-301-Naples-FL-34110/2057185391_zpid/,585 Club Side Dr #3-301,Naples,FL,34110,459000
+zpid_2057203095,for sale,,,1452,3,2,https://www.zillow.com/homedetails/301-City-View-Dr-301-Fort-Lauderdale-FL-33311/2057203095_zpid/,301 City View Dr #301,Fort Lauderdale,FL,33311,449000
+zpid_2057212496,for sale,26.273153,-80.14068,1200,2,2,https://www.zillow.com/homedetails/3370-Beau-Rivage-Dr-APT-T4-Pompano-Beach-FL-33064/2057212496_zpid/,3370 Beau Rivage Dr APT T4,Pompano Beach,FL,33064,219999
+zpid_2057226384,for sale,25.937315,-80.32251,1150,2,3,https://www.zillow.com/homedetails/18055-NW-74th-Ct-18055-Hialeah-FL-33015/2057226384_zpid/,18055 NW 74th Ct #18055,Hialeah,FL,33015,362000
+zpid_2057274689,for sale,26.035591,-80.250786,1254,2,3,https://www.zillow.com/homedetails/2926-Cascada-Isles-Way-0-Hollywood-FL-33024/2057274689_zpid/,2926 Cascada Isles Way #0,Hollywood,FL,33024,525000
+zpid_2057339356,for sale,25.7176,-80.31081,2673,4,4,https://www.zillow.com/homedetails/7200-SW-Miller-Dr-Miami-FL-33155/2057339356_zpid/,7200 SW Miller Dr,Miami,FL,33155,2650000
+zpid_2057454364,for sale,26.067097,-80.26546,1800,4,2,https://www.zillow.com/homedetails/12850-Estates-Rd-33-Fort-Lauderdale-FL-33325/2057454364_zpid/,12850 Estates Rd #33,Fort Lauderdale,FL,33325,165000
+zpid_2057547258,for sale,25.904255,-80.30688,1837,4,2,https://www.zillow.com/homedetails/6555-Miami-Lakeway-S-Hialeah-FL-33014/2057547258_zpid/,6555 Miami Lakeway S,Hialeah,FL,33014,989000
+zpid_2057548459,for sale,25.903776,-80.35557,1574,3,3,https://www.zillow.com/homedetails/8944-W-35th-Ln-8944-Hialeah-FL-33018/2057548459_zpid/,8944 W 35th Ln #8944,Hialeah,FL,33018,515000
+zpid_2057620234,for sale,25.774803,-80.22802,2122,3,2,https://www.zillow.com/homedetails/2135-2137-NW-1st-Ter-Miami-FL-33125/2057620234_zpid/,2135 & 2137 NW 1st Ter,Miami,FL,33125,650000
+zpid_2057628821,for sale,25.812382,-80.2566,3592,3,2,https://www.zillow.com/homedetails/4111-NW-37th-Ave-LOT-H707-Miami-FL-33142/2057628821_zpid/,4111 NW 37th Ave LOT H707,Miami,FL,33142,115000
+zpid_2057690550,for sale,25.703934,-80.30032,3985,4,4,https://www.zillow.com/community/pine-rockland-estates-by-cc-homes/2057690550_zpid/,"Ibis Plan, Pine Rockland Estates by CC Homes",Miami,FL,33143,2550990
+zpid_2058086877,for sale,,,2021,3,3,https://www.zillow.com/homedetails/2501-SW-27th-St-4-Miami-FL-33133/2058086877_zpid/,2501 SW 27th St #4,Miami,FL,33133,1314165
+zpid_2058486476,for sale,25.74281,-80.267685,3098,3,4,https://www.zillow.com/homedetails/617-Santander-Ave-Miami-FL-33134/2058486476_zpid/,617 Santander Ave,Miami,FL,33134,2690000
+zpid_2058727680,for sale,25.552967,-80.35589,1328,3,3,https://www.zillow.com/homedetails/10182-SW-228th-Ter-Miami-FL-33190/2058727680_zpid/,10182 SW 228th Ter,Miami,FL,33190,449000
+zpid_2059030491,for sale,25.865644,-80.18692,3592,5,4,https://www.zillow.com/homedetails/500-Grand-Concourse-Miami-FL-33138/2059030491_zpid/,500 Grand Concourse,Miami,FL,33138,3650000
+zpid_2059075661,for sale,25.700216,-80.40597,1030,2,2,https://www.zillow.com/homedetails/6355-SW-136th-Ct-APT-J202-Miami-FL-33183/2059075661_zpid/,6355 SW 136th Ct APT J202,Miami,FL,33183,369000
+zpid_2059534512,for sale,26.0643,-80.3137,3210,4,3,https://www.zillow.com/community/crescent-ridge/2059534512_zpid/,"Manor Plan, Crescent Ridge",Fort Lauderdale,FL,33330,1185000
+zpid_2059534515,for sale,26.0643,-80.3137,3036,4,3,https://www.zillow.com/community/crescent-ridge/2059534515_zpid/,"Arlington Plan, Crescent Ridge",Fort Lauderdale,FL,33330,1135000
+zpid_2059538170,for sale,26.037218,-80.17822,1548,3,3,https://www.zillow.com/homedetails/2913-N-34th-Ter-2913-Hollywood-FL-33021/2059538170_zpid/,2913 N 34th Ter #2913,Hollywood,FL,33021,400000
+zpid_2059757661,for sale,25.696508,-80.36088,1966,3,3,https://www.zillow.com/homedetails/7650-SW-103rd-Pl-7650-Miami-FL-33173/2059757661_zpid/,7650 SW 103rd Pl #7650,Miami,FL,33173,510000
+zpid_2059767931,for sale,26.2917,-81.5677,1417,3,2,https://www.zillow.com/community/orange-blossom-groves-villas/2059767931_zpid/,"Magnolia Plan, Orange Blossom Groves : Villas",Naples,FL,34120,336999
+zpid_2060121304,for sale,25.747206,-80.215744,3090,4,3,https://www.zillow.com/homedetails/84-Shore-Dr-W-Miami-FL-33133/2060121304_zpid/,84 Shore Dr W,Miami,FL,33133,2725000
+zpid_2060327416,for sale,25.790277,-80.146515,1898,3,2,https://www.zillow.com/homedetails/20-Island-Ave-4-Miami-Beach-FL-33139/2060327416_zpid/,20 Island Ave #4,Miami Beach,FL,33139,1675000
+zpid_2060688343,for sale,25.840528,-80.18778,2319,4,4,https://www.zillow.com/homedetails/7105-NE-4th-Ct-3-Miami-FL-33138/2060688343_zpid/,7105 NE 4th Ct #3,Miami,FL,33138,1350000
+zpid_2062599587,for sale,26.00455,-80.26663,1170,2,2,https://www.zillow.com/homedetails/8970-S-Hollybrook-Blvd-31-110-Hollywood-FL-33025/2062599587_zpid/,8970 S Hollybrook Blvd #31-110,Hollywood,FL,33025,189900
+zpid_2062702734,for sale,26.04864,-80.14461,1248,3,2,https://www.zillow.com/homedetails/107-Stirling-Rd-Dania-FL-33004/2062702734_zpid/,107 Stirling Rd,Dania,FL,33004,425000
+zpid_2063282148,for sale,,,1825,3,2,https://www.zillow.com/homedetails/8616-Bridle-Path-Ct-8616-Fort-Lauderdale-FL-33328/2063282148_zpid/,8616 Bridle Path Ct #8616,Fort Lauderdale,FL,33328,508880
+zpid_2063517975,for sale,26.130192,-80.26542,1655,3,3,https://www.zillow.com/homedetails/8705-Cleary-Blvd-8705-Fort-Lauderdale-FL-33324/2063517975_zpid/,8705 Cleary Blvd #8705,Fort Lauderdale,FL,33324,424900
+zpid_2063570262,for sale,,,1230,2,2,https://www.zillow.com/homedetails/1950-SW-81st-Way-1950-Fort-Lauderdale-FL-33324/2063570262_zpid/,1950 SW 81st Way #1950,Fort Lauderdale,FL,33324,360000
+zpid_2063617080,for sale,,,1920,3,3,https://www.zillow.com/homedetails/1631-E-Broward-Blvd-1631-Fort-Lauderdale-FL-33301/2063617080_zpid/,1631 E Broward Blvd #1631,Fort Lauderdale,FL,33301,850000
+zpid_2065617111,for sale,25.8828,-80.2432,1334,3,3,https://www.zillow.com/community/westview-provence-collection/2065617111_zpid/,"Bandol Plan, Westview : Provence Collection",Miami,FL,33167,469990
+zpid_2066435676,for sale,,,1981,3,4,https://www.zillow.com/homedetails/2850-SW-33rd-Ave-2850-Miami-FL-33133/2066435676_zpid/,2850 SW 33rd Ave #2850,Miami,FL,33133,1119000
+zpid_2066524526,for sale,25.872152,-80.23875,1443,3,3,https://www.zillow.com/homedetails/12623-NW-24th-Ave-Miami-FL-33167/2066524526_zpid/,12623 NW 24th Ave,Miami,FL,33167,485000
+zpid_2066800245,for sale,26.032108,-80.16155,1088,2,1,https://www.zillow.com/homedetails/2646-E-Sherman-St-Hollywood-FL-33020/2066800245_zpid/,2646 E Sherman St,Hollywood,FL,33020,699999
+zpid_2067204697,for sale,25.76287,-80.19506,694,1,1,https://www.zillow.com/homedetails/1111-SW-1st-Ave-APT-3324-Miami-FL-33130/2067204697_zpid/,1111 SW 1st Ave APT 3324,Miami,FL,33130,440000
+zpid_2067205853,for sale,,,1304,2,2,https://www.zillow.com/homedetails/3405-Willow-Wood-74-Fort-Lauderdale-FL-33319/2067205853_zpid/,3405 Willow Wood #74,Fort Lauderdale,FL,33319,349000
+zpid_2067635093,for sale,25.8828,-80.2432,1828,4,3,https://www.zillow.com/community/westview-nantucket-collection/2067635093_zpid/,"Marsielle Plan, Westview : Nantucket Collection",Miami,FL,33167,547990
+zpid_2067798993,for sale,25.743671,-80.40616,4334,5,6,https://www.zillow.com/homedetails/2610-SW-130th-Ave-Miami-FL-33175/2067798993_zpid/,2610 SW 130th Ave,Miami,FL,33175,3149000
+zpid_2072066084,for sale,26.098385,-81.75052,2011,2,2,https://www.zillow.com/homedetails/6532-Dominica-Dr-201-Naples-FL-34113/2072066084_zpid/,6532 Dominica Dr #201,Naples,FL,34113,1000000
+zpid_2076538319,for sale,25.82035,-80.33788,2070,3,4,https://www.zillow.com/homedetails/5300-NW-87th-Ave-1313-Miami-FL-33178/2076538319_zpid/,5300 NW 87th Ave #1313,Miami,FL,33178,350000
+zpid_2077847422,for sale,25.999088,-80.34402,1924,3,3,https://www.zillow.com/homedetails/1113-SW-147th-Ter-1113-Hollywood-FL-33027/2077847422_zpid/,1113 SW 147th Ter #1113,Hollywood,FL,33027,540000
+zpid_2080168909,for sale,26.21245,-80.22086,1402,3,2,https://www.zillow.com/homedetails/1254-SW-71st-Ter-1254-Pompano-Beach-FL-33068/2080168909_zpid/,1254 SW 71st Ter #1254,Pompano Beach,FL,33068,235000
+zpid_2081471942,for sale,,,960,1,1,https://www.zillow.com/homedetails/245-Imperial-Wilder-Blvd-245-Naples-FL-34114/2081471942_zpid/,245 Imperial Wilder Blvd #245,Naples,FL,34114,149900
+zpid_2084540028,for sale,,,822,1,2,https://www.zillow.com/homedetails/Miami-FL-33131/2084540028_zpid/,(undisclosed Address),Miami,FL,33131,589999
+zpid_2089250264,for sale,26.03747,-80.147224,2552,4,4,https://www.zillow.com/homedetails/254-SW-12th-St-Dania-Beach-FL-33004/2089250264_zpid/,254 SW 12th St,Dania Beach,FL,33004,1290000
+zpid_2096233287,for sale,26.117935,-80.155396,1806,3,3,https://www.zillow.com/homedetails/1017-SW-4th-St-Fort-Lauderdale-FL-33312/2096233287_zpid/,1017 SW 4th St,Fort Lauderdale,FL,33312,849000
+zpid_2100784046,for sale,26.09277,-80.16515,2250,5,3,https://www.zillow.com/homedetails/2350-SW-18th-Ter-Fort-Lauderdale-FL-33315/2100784046_zpid/,2350 SW 18th Ter,Fort Lauderdale,FL,33315,749550
+zpid_2101558209,for sale,26.28819,-81.75733,1715,3,3,https://www.zillow.com/homedetails/15718-Marcello-Cir-167-Naples-FL-34110/2101558209_zpid/,15718 Marcello Cir #167,Naples,FL,34110,459000
+zpid_2112485172,for sale,25.76874,-80.18952,790,1,1,https://www.zillow.com/homedetails/485-Brickell-Ave-APT-2103-Miami-FL-33131/2112485172_zpid/,485 Brickell Ave APT 2103,Miami,FL,33131,777000
+zpid_2113380658,for sale,26.205406,-80.13415,1000,3,3,https://www.zillow.com/homedetails/1037-NE-63rd-Ct-Fort-Lauderdale-FL-33334/2113380658_zpid/,1037 NE 63rd Ct,Fort Lauderdale,FL,33334,155000
+zpid_2117522001,for sale,,,1696,2,3,https://www.zillow.com/homedetails/720-NE-5th-Ave-720-Fort-Lauderdale-FL-33304/2117522001_zpid/,720 NE 5th Ave #720,Fort Lauderdale,FL,33304,745000
+zpid_2134270685,for sale,25.916193,-80.26799,1990,5,3,https://www.zillow.com/homedetails/15675-NW-42nd-Ave-Opa-Locka-FL-33054/2134270685_zpid/,15675 NW 42nd Ave,Opa Locka,FL,33054,665000
+zpid_2146051134,for sale,25.943293,-80.14513,1005,1,2,https://www.zillow.com/homedetails/18051-Biscayne-Blvd-APT-1603-Aventura-FL-33160/2146051134_zpid/,18051 Biscayne Blvd APT 1603,Aventura,FL,33160,227000
+zpid_246617997,for sale,26.134752,-80.12515,1916,3,4,https://www.zillow.com/homedetails/835-NE-17th-Ter-9-Fort-Lauderdale-FL-33304/246617997_zpid/,835 NE 17th Ter #9,Fort Lauderdale,FL,33304,799900
+zpid_246619585,for sale,26.137953,-80.20465,1496,3,3,https://www.zillow.com/homedetails/1005-NW-41st-Ave-Fort-Lauderdale-FL-33313/246619585_zpid/,1005 NW 41st Ave,Fort Lauderdale,FL,33313,389900
+zpid_246935212,for sale,26.060871,-80.343925,6944,4,5,https://www.zillow.com/homedetails/4660-SW-148th-Ave-Fort-Lauderdale-FL-33330/246935212_zpid/,4660 SW 148th Ave,Fort Lauderdale,FL,33330,8750000
+zpid_247651393,for sale,25.773623,-80.19066,977,2,2,https://www.zillow.com/homedetails/151-SE-1st-St-APT-601-Miami-FL-33131/247651393_zpid/,151 SE 1st St APT 601,Miami,FL,33131,520000
+zpid_247651397,for sale,25.773623,-80.19066,607,1,1,https://www.zillow.com/homedetails/151-SE-1st-St-APT-1610-Miami-FL-33131/247651397_zpid/,151 SE 1st St APT 1610,Miami,FL,33131,375500
+zpid_247680277,for sale,25.773623,-80.19066,526,1,1,https://www.zillow.com/homedetails/151-SE-1st-St-APT-1905-Miami-FL-33131/247680277_zpid/,151 SE 1st St APT 1905,Miami,FL,33131,355000
+zpid_247680485,for sale,25.761106,-80.193726,699,1,1,https://www.zillow.com/homedetails/1300-S-Miami-Ave-2204-Miami-FL-33130/247680485_zpid/,1300 S Miami Ave #2204,Miami,FL,33130,599000
+zpid_247698505,for sale,25.91084,-80.35103,2291,3,3,https://www.zillow.com/homedetails/3217-W-97th-St-Hialeah-FL-33018/247698505_zpid/,3217 W 97th St,Hialeah,FL,33018,900000
+zpid_247699548,for sale,25.835043,-80.364624,2782,4,4,https://www.zillow.com/homedetails/10330-NW-68th-St-Doral-FL-33178/247699548_zpid/,10330 NW 68th St,Doral,FL,33178,1190000
+zpid_247699942,for sale,25.764074,-80.19781,722,1,1,https://www.zillow.com/homedetails/1010-SW-2nd-Ave-UNIT-1907-Miami-FL-33130/247699942_zpid/,1010 SW 2nd Ave UNIT 1907,Miami,FL,33130,459000
+zpid_247701040,for sale,25.916704,-80.3536,1914,4,3,https://www.zillow.com/homedetails/10307-W-34th-Ct-Hialeah-FL-33018/247701040_zpid/,10307 W 34th Ct,Hialeah,FL,33018,725000
+zpid_247701096,for sale,25.760075,-80.19843,1380,3,3,https://www.zillow.com/homedetails/201-SW-17th-Rd-512-Miami-FL-33129/247701096_zpid/,201 SW 17th Rd #512,Miami,FL,33129,830000
+zpid_247701958,for sale,25.839651,-80.36564,1743,3,3,https://www.zillow.com/homedetails/7261-NW-103rd-Path-Doral-FL-33178/247701958_zpid/,7261 NW 103rd Path,Doral,FL,33178,700000
+zpid_247702340,for sale,25.83443,-80.36505,2782,4,4,https://www.zillow.com/homedetails/10342-NW-67th-Ter-Doral-FL-33178/247702340_zpid/,10342 NW 67th Ter,Doral,FL,33178,999999
+zpid_247702634,for sale,25.91697,-80.35201,1644,3,3,https://www.zillow.com/homedetails/10360-W-33rd-Ct-Hialeah-FL-33018/247702634_zpid/,10360 W 33rd Ct,Hialeah,FL,33018,535000
+zpid_247702760,for sale,25.705807,-80.32664,4066,4,4,https://www.zillow.com/homedetails/6840-SW-82nd-Ave-Miami-FL-33143/247702760_zpid/,6840 SW 82nd Ave,Miami,FL,33143,3450000
+zpid_252195245,for sale,25.913937,-80.34471,2847,4,3,https://www.zillow.com/homedetails/15450-NW-88th-Ct-Miami-Lakes-FL-33018/252195245_zpid/,15450 NW 88th Ct,Miami Lakes,FL,33018,925000
+zpid_252195595,for sale,25.913765,-80.3447,3135,5,4,https://www.zillow.com/homedetails/15442-NW-88th-Ct-Miami-Lakes-FL-33018/252195595_zpid/,15442 NW 88th Ct,Miami Lakes,FL,33018,989000
+zpid_252195610,for sale,25.734447,-80.23412,3864,5,6,https://www.zillow.com/homedetails/3180-Washington-St-Miami-FL-33133/252195610_zpid/,3180 Washington St,Miami,FL,33133,4890000
+zpid_299148692,for sale,26.137377,-80.1092,548,1,1,https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-303-Fort-Lauderdale-FL-33304/299148692_zpid/,2670 E Sunrise Blvd #303,Fort Lauderdale,FL,33304,184888
+zpid_299148899,for sale,26.137377,-80.1092,554,1,1,https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-1420-Fort-Lauderdale-FL-33304/299148899_zpid/,2670 E Sunrise Blvd #1420,Fort Lauderdale,FL,33304,222000
+zpid_299148994,for sale,26.129272,-80.10365,1308,2,2,https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-602-Fort-Lauderdale-FL-33304/299148994_zpid/,505 N Fort Lauderdale Beach Blvd #602,Fort Lauderdale,FL,33304,499000
+zpid_299346226,for sale,26.337337,-81.528046,2100,3,4,https://www.zillow.com/homedetails/3965-56th-Ave-NE-Naples-FL-34120/299346226_zpid/,3965 56th Ave NE,Naples,FL,34120,100000
+zpid_306108102,for sale,26.00919,-80.43005,1617,4,3,https://www.zillow.com/homedetails/20969-NW-1st-Ct-Pembroke-Pines-FL-33029/306108102_zpid/,20969 NW 1st Ct,Pembroke Pines,FL,33029,575900
+zpid_306109869,for sale,26.13044,-80.123604,1850,3,3,https://www.zillow.com/homedetails/604-NE-17th-Way-Fort-Lauderdale-FL-33304/306109869_zpid/,604 NE 17th Way,Fort Lauderdale,FL,33304,1260000
+zpid_306392766,for sale,25.79351,-80.18751,758,1,2,https://www.zillow.com/homedetails/488-NE-18th-St-UNIT-307-Miami-FL-33132/306392766_zpid/,488 NE 18th St UNIT 307,Miami,FL,33132,450900
+zpid_306395185,for sale,25.79351,-80.18751,745,1,2,https://www.zillow.com/homedetails/488-NE-18th-St-UNIT-4404-Miami-FL-33132/306395185_zpid/,488 NE 18th St UNIT 4404,Miami,FL,33132,610000
+zpid_306397535,for sale,25.729372,-80.23855,2558,3,4,https://www.zillow.com/homedetails/2821-S-Bayshore-Dr-UNIT-16D-Miami-FL-33133/306397535_zpid/,2821 S Bayshore Dr UNIT 16D,Miami,FL,33133,5299000
+zpid_306397642,for sale,25.894726,-80.3595,5001,5,5,https://www.zillow.com/homedetails/9867-NW-133rd-St-Hialeah-Gardens-FL-33018/306397642_zpid/,9867 NW 133rd St,Hialeah Gardens,FL,33018,3500000
+zpid_308874577,for sale,26.238316,-80.131775,1232,4,2,https://www.zillow.com/homedetails/715-NW-7th-Ave-Pompano-Beach-FL-33060/308874577_zpid/,715 NW 7th Ave,Pompano Beach,FL,33060,350000
+zpid_331696802,for sale,25.917482,-80.348656,1586,3,3,https://www.zillow.com/homedetails/15833-NW-91st-Ct-Miami-Lakes-FL-33018/331696802_zpid/,15833 NW 91st Ct,Miami Lakes,FL,33018,559000
+zpid_331699441,for sale,25.847837,-80.365555,1236,3,2,https://www.zillow.com/homedetails/8031-NW-104th-Ave-36-Doral-FL-33178/331699441_zpid/,8031 NW 104th Ave #36,Doral,FL,33178,525000
+zpid_331700055,for sale,25.733274,-80.261406,906,2,2,https://www.zillow.com/homedetails/301-Altara-Ave-411-Coral-Gables-FL-33146/331700055_zpid/,301 Altara Ave #411,Coral Gables,FL,33146,815000
+zpid_331700318,for sale,25.733274,-80.261406,705,1,1,https://www.zillow.com/homedetails/301-Altara-Ave-UNIT-707-Coral-Gables-FL-33146/331700318_zpid/,301 Altara Ave UNIT 707,Coral Gables,FL,33146,530000
+zpid_331700431,for sale,25.733274,-80.261406,2234,4,5,https://www.zillow.com/homedetails/301-Altara-Ave-UNIT-717-Coral-Gables-FL-33146/331700431_zpid/,301 Altara Ave UNIT 717,Coral Gables,FL,33146,3100000
+zpid_337200802,for sale,25.832418,-80.363914,1315,3,3,https://www.zillow.com/homedetails/6421-NW-102nd-Path-102-Doral-FL-33178/337200802_zpid/,6421 NW 102nd Path #102,Doral,FL,33178,515000
+zpid_337201497,for sale,25.848763,-80.18166,3680,4,4,https://www.zillow.com/homedetails/741-NE-80th-St-Miami-FL-33138/337201497_zpid/,741 NE 80th St,Miami,FL,33138,2799000
+zpid_337202628,for sale,25.728268,-80.238106,2546,3,4,https://www.zillow.com/homedetails/2811-S-Bayshore-Dr-15D-Miami-FL-33133/337202628_zpid/,2811 S Bayshore Dr #15D,Miami,FL,33133,6570000
+zpid_337202917,for sale,25.728268,-80.238106,2546,3,4,https://www.zillow.com/homedetails/2811-S-Bayshore-Dr-UNIT-14D-Miami-FL-33133/337202917_zpid/,2811 S Bayshore Dr UNIT 14D,Miami,FL,33133,7500000
+zpid_337881856,for sale,26.183495,-81.52649,1538,3,2,https://www.zillow.com/homedetails/3966-26th-Ave-SE-Naples-FL-34117/337881856_zpid/,3966 26th Ave SE,Naples,FL,34117,479000
+zpid_338742081,for sale,25.922665,-80.351814,1708,3,3,https://www.zillow.com/homedetails/11037-W-33rd-Ct-Hialeah-FL-33018/338742081_zpid/,11037 W 33rd Ct,Hialeah,FL,33018,545000
+zpid_338742169,for sale,25.922417,-80.35146,1332,3,3,https://www.zillow.com/homedetails/11072-W-32nd-Ln-Hialeah-FL-33018/338742169_zpid/,11072 W 32nd Ln,Hialeah,FL,33018,545000
+zpid_338743368,for sale,25.732618,-80.23804,1886,3,4,https://www.zillow.com/homedetails/3156-SW-27th-Ave-505-Miami-FL-33133/338743368_zpid/,3156 SW 27th Ave #505,Miami,FL,33133,2250000
+zpid_42839124,for sale,26.28324,-80.26447,2292,4,2,https://www.zillow.com/homedetails/10395-NW-42nd-Dr-Coral-Springs-FL-33065/42839124_zpid/,10395 NW 42nd Dr,Coral Springs,FL,33065,449900
+zpid_42844171,for sale,26.26137,-80.24744,1509,3,2,https://www.zillow.com/homedetails/2486-NW-91st-Ave-Coral-Springs-FL-33065/42844171_zpid/,2486 NW 91st Ave,Coral Springs,FL,33065,524999
+zpid_42854338,for sale,26.254147,-80.21417,2055,5,2,https://www.zillow.com/homedetails/6611-NW-20th-St-Margate-FL-33063/42854338_zpid/,6611 NW 20th St,Margate,FL,33063,545000
+zpid_42854580,for sale,26.244173,-80.216576,1257,2,2,https://www.zillow.com/homedetails/6855-NW-11th-Ct-Margate-FL-33063/42854580_zpid/,6855 NW 11th Ct,Margate,FL,33063,349900
+zpid_42886694,for sale,26.292896,-80.199036,1573,4,2,https://www.zillow.com/homedetails/5449-NW-50th-Ct-Coconut-Creek-FL-33073/42886694_zpid/,5449 NW 50th Ct,Coconut Creek,FL,33073,510000
+zpid_42892789,for sale,26.276644,-80.10453,1237,3,2,https://www.zillow.com/homedetails/3690-NE-13th-Ter-Pompano-Beach-FL-33064/42892789_zpid/,3690 NE 13th Ter,Pompano Beach,FL,33064,365000
+zpid_42893407,for sale,26.281914,-80.10052,978,3,1,https://www.zillow.com/homedetails/4140-NE-17th-Ave-Pompano-Beach-FL-33064/42893407_zpid/,4140 NE 17th Ave,Pompano Beach,FL,33064,299999
+zpid_42905271,for sale,26.27002,-80.12383,1490,3,2,https://www.zillow.com/homedetails/100-NW-32nd-St-Pompano-Beach-FL-33064/42905271_zpid/,100 NW 32nd St,Pompano Beach,FL,33064,330000
+zpid_42909687,for sale,26.25232,-80.12317,1489,3,2,https://www.zillow.com/homedetails/1721-N-Cypress-Rd-Pompano-Beach-FL-33060/42909687_zpid/,1721 N Cypress Rd,Pompano Beach,FL,33060,349000
+zpid_42909833,for sale,26.25414,-80.120544,1259,3,2,https://www.zillow.com/homedetails/1830-NE-2nd-Ter-Pompano-Beach-FL-33060/42909833_zpid/,1830 NE 2nd Ter,Pompano Beach,FL,33060,315000
+zpid_42927782,for sale,26.291489,-80.100815,817,2,2,https://www.zillow.com/homedetails/1714-NE-49th-Ct-Pompano-Beach-FL-33064/42927782_zpid/,1714 NE 49th Ct,Pompano Beach,FL,33064,399000
+zpid_42935979,for sale,26.276917,-80.09441,1000,2,2,https://www.zillow.com/homedetails/2100-NE-38th-St-APT-208-Lighthouse-Pt-FL-33064/42935979_zpid/,2100 NE 38th St APT 208,Lighthouse Pt,FL,33064,190000
+zpid_42936803,for sale,26.262915,-80.095604,1844,4,3,https://www.zillow.com/homedetails/2051-NE-25th-St-Lighthouse-Pt-FL-33064/42936803_zpid/,2051 NE 25th St,Lighthouse Pt,FL,33064,699000
+zpid_42937265,for sale,26.26422,-80.083496,1300,2,2,https://www.zillow.com/homedetails/2758-NE-30th-Ave-APT-4C-Pompano-Beach-FL-33064/42937265_zpid/,2758 NE 30th Ave APT 4C,Pompano Beach,FL,33064,424500
+zpid_42940121,for sale,26.24949,-80.09928,1080,2,2,https://www.zillow.com/homedetails/2350-NE-14th-St-204-Pompano-Beach-FL-33062/42940121_zpid/,2350 NE 14th St #204,Pompano Beach,FL,33062,285000
+zpid_42940952,for sale,26.250965,-80.0885,792,1,1,https://www.zillow.com/homedetails/1450-N-Riverside-Dr-APT-206-Pompano-Beach-FL-33062/42940952_zpid/,1450 N Riverside Dr APT 206,Pompano Beach,FL,33062,278000
+zpid_42949977,for sale,26.16671,-80.31016,1580,3,2,https://www.zillow.com/homedetails/3232-NW-122nd-Ave-Sunrise-FL-33323/42949977_zpid/,3232 NW 122nd Ave,Sunrise,FL,33323,499999
+zpid_42956913,for sale,26.226795,-80.23008,1116,3,2,https://www.zillow.com/homedetails/309-SW-77th-Ave-Pompano-Beach-FL-33068/42956913_zpid/,309 SW 77th Ave,Pompano Beach,FL,33068,380000
+zpid_42958078,for sale,26.214338,-80.22164,1012,2,2,https://www.zillow.com/homedetails/7215-SW-11th-Ct-Pompano-Beach-FL-33068/42958078_zpid/,7215 SW 11th Ct,Pompano Beach,FL,33068,273000
+zpid_42963976,for sale,26.217735,-80.25704,1245,3,3,https://www.zillow.com/homedetails/7720-NW-79th-Ave-APT-B4-Tamarac-FL-33321/42963976_zpid/,7720 NW 79th Ave APT B4,Tamarac,FL,33321,340000
+zpid_42968396,for sale,26.210766,-80.29491,1348,2,3,https://www.zillow.com/homedetails/10921-Periwinkle-Ln-Fort-Lauderdale-FL-33321/42968396_zpid/,10921 Periwinkle Ln,Fort Lauderdale,FL,33321,346000
+zpid_42969319,for sale,26.2126,-80.29351,1222,2,2,https://www.zillow.com/homedetails/10661-W-Clairmont-Cir-304-Fort-Lauderdale-FL-33321/42969319_zpid/,10661 W Clairmont Cir #304,Fort Lauderdale,FL,33321,195000
+zpid_42972783,for sale,26.20756,-80.27509,950,2,2,https://www.zillow.com/homedetails/9201-Lime-Bay-Blvd-APT-107-Tamarac-FL-33321/42972783_zpid/,9201 Lime Bay Blvd APT 107,Tamarac,FL,33321,190000
+zpid_42990732,for sale,26.192427,-80.255646,2032,4,2,https://www.zillow.com/homedetails/7821-NW-54th-Ct-Lauderhill-FL-33351/42990732_zpid/,7821 NW 54th Ct,Lauderhill,FL,33351,553500
+zpid_43012609,for sale,26.152208,-80.21462,1185,2,2,https://www.zillow.com/homedetails/4770-NW-21st-St-APT-106-Lauderhill-FL-33313/43012609_zpid/,4770 NW 21st St APT 106,Lauderhill,FL,33313,149000
+zpid_43013341,for sale,26.152315,-80.21371,928,1,2,https://www.zillow.com/homedetails/4740-NW-21st-St-APT-205-Lauderhill-FL-33313/43013341_zpid/,4740 NW 21st St APT 205,Lauderhill,FL,33313,124900
+zpid_43018814,for sale,26.15968,-80.24077,969,3,2,https://www.zillow.com/homedetails/6881-NW-26th-St-Fort-Lauderdale-FL-33313/43018814_zpid/,6881 NW 26th St,Fort Lauderdale,FL,33313,349900
+zpid_43019631,for sale,26.151165,-80.25195,2271,5,2,https://www.zillow.com/homedetails/8045-NW-21st-St-Sunrise-FL-33322/43019631_zpid/,8045 NW 21st St,Sunrise,FL,33322,565000
+zpid_43028636,for sale,26.15204,-80.288795,1660,3,2,https://www.zillow.com/homedetails/10530-NW-21st-Ct-Sunrise-FL-33322/43028636_zpid/,10530 NW 21st Ct,Sunrise,FL,33322,577500
+zpid_43029384,for sale,26.151302,-80.29288,1622,4,2,https://www.zillow.com/homedetails/10740-NW-21st-St-Sunrise-FL-33322/43029384_zpid/,10740 NW 21st St,Sunrise,FL,33322,535000
+zpid_43032604,for sale,26.144247,-80.28422,2927,4,3,https://www.zillow.com/homedetails/1541-NW-100th-Way-Plantation-FL-33322/43032604_zpid/,1541 NW 100th Way,Plantation,FL,33322,899000
+zpid_43034923,for sale,26.141306,-80.268906,1398,2,2,https://www.zillow.com/homedetails/8971-NW-12th-Pl-Plantation-FL-33322/43034923_zpid/,8971 NW 12th Pl,Plantation,FL,33322,395900
+zpid_43035488,for sale,26.144854,-80.279045,2021,4,2,https://www.zillow.com/homedetails/9590-NW-17th-St-Plantation-FL-33322/43035488_zpid/,9590 NW 17th St,Plantation,FL,33322,735000
+zpid_43036758,for sale,26.141272,-80.26204,1312,2,2,https://www.zillow.com/homedetails/1320-NW-85th-Ave-Fort-Lauderdale-FL-33322/43036758_zpid/,1320 NW 85th Ave,Fort Lauderdale,FL,33322,325000
+zpid_43041169,for sale,26.14919,-80.22753,1602,4,2,https://www.zillow.com/homedetails/5821-NW-18th-Ct-Fort-Lauderdale-FL-33313/43041169_zpid/,5821 NW 18th Ct,Fort Lauderdale,FL,33313,444900
+zpid_43041501,for sale,26.147654,-80.2292,1321,2,2,https://www.zillow.com/homedetails/5900-NW-17th-Pl-APT-102-Sunrise-FL-33313/43041501_zpid/,5900 NW 17th Pl APT 102,Sunrise,FL,33313,230000
+zpid_43049905,for sale,26.23107,-80.12739,890,2,2,https://www.zillow.com/homedetails/214-SW-1st-St-I-2-Pompano-Beach-FL-33060/43049905_zpid/,214 SW 1st St #I-2,Pompano Beach,FL,33060,189900
+zpid_43050635,for sale,26.213343,-80.149826,1399,2,2,https://www.zillow.com/homedetails/2202-S-Cypress-Bend-Dr-APT-505-Pompano-Beach-FL-33069/43050635_zpid/,2202 S Cypress Bend Dr APT 505,Pompano Beach,FL,33069,279000
+zpid_43097600,for sale,26.147303,-80.17736,1526,3,2,https://www.zillow.com/homedetails/2601-NW-16th-Ct-Fort-Lauderdale-FL-33311/43097600_zpid/,2601 NW 16th Ct,Fort Lauderdale,FL,33311,375000
+zpid_43099047,for sale,26.138958,-80.16017,860,3,2,https://www.zillow.com/homedetails/1313-NW-11th-Ct-Fort-Lauderdale-FL-33311/43099047_zpid/,1313 NW 11th Ct,Fort Lauderdale,FL,33311,330000
+zpid_43099093,for sale,26.13922,-80.161545,1686,4,2,https://www.zillow.com/homedetails/1436-NW-11th-Ct-Fort-Lauderdale-FL-33311/43099093_zpid/,1436 NW 11th Ct,Fort Lauderdale,FL,33311,390000
+zpid_43099887,for sale,26.14521,-80.15871,1386,3,2,https://www.zillow.com/homedetails/1161-NW-15th-St-Fort-Lauderdale-FL-33311/43099887_zpid/,1161 NW 15th St,Fort Lauderdale,FL,33311,550000
+zpid_43101364,for sale,26.143131,-80.12818,1338,3,2,https://www.zillow.com/homedetails/1315-NE-16th-Ave-Fort-Lauderdale-FL-33304/43101364_zpid/,1315 NE 16th Ave,Fort Lauderdale,FL,33304,899900
+zpid_43102067,for sale,26.134352,-80.12398,2695,3,4,https://www.zillow.com/homedetails/819-NE-17th-Way-Fort-Lauderdale-FL-33304/43102067_zpid/,819 NE 17th Way,Fort Lauderdale,FL,33304,1399000
+zpid_43102922,for sale,26.151432,-80.15001,1342,3,3,https://www.zillow.com/homedetails/670-Tennis-Club-Dr-APT-111-Fort-Lauderdale-FL-33311/43102922_zpid/,670 Tennis Club Dr APT 111,Fort Lauderdale,FL,33311,330000
+zpid_43105124,for sale,26.143555,-80.11221,842,2,2,https://www.zillow.com/homedetails/1308-Bayview-Dr-APT-2A-Fort-Lauderdale-FL-33304/43105124_zpid/,1308 Bayview Dr APT 2A,Fort Lauderdale,FL,33304,329000
+zpid_43112246,for sale,26.206177,-80.09656,1080,2,2,https://www.zillow.com/homedetails/1967-S-Ocean-Blvd-APT-103-Lauderdale-By-The-Sea-FL-33062/43112246_zpid/,1967 S Ocean Blvd APT 103,Lauderdale By The Sea,FL,33062,290000
+zpid_43123317,for sale,26.170643,-80.10109,1170,2,2,https://www.zillow.com/homedetails/3333-NE-34th-St-APT-904-Fort-Lauderdale-FL-33308/43123317_zpid/,3333 NE 34th St APT 904,Fort Lauderdale,FL,33308,299000
+zpid_43132709,for sale,26.117683,-80.368675,1235,2,3,https://www.zillow.com/homedetails/16325-Golf-Club-Rd-APT-101-Weston-FL-33326/43132709_zpid/,16325 Golf Club Rd APT 101,Weston,FL,33326,390000
+zpid_43141523,for sale,26.10661,-80.3289,1411,4,3,https://www.zillow.com/homedetails/13531-SW-10th-Pl-Davie-FL-33325/43141523_zpid/,13531 SW 10th Pl,Davie,FL,33325,549900
+zpid_43146346,for sale,26.07747,-80.31446,3683,6,3,https://www.zillow.com/homedetails/12470-SW-34th-Pl-Davie-FL-33330/43146346_zpid/,12470 SW 34th Pl,Davie,FL,33330,1495000
+zpid_43146814,for sale,26.059238,-80.32083,2469,4,3,https://www.zillow.com/homedetails/12921-SW-52nd-St-Southwest-Ranches-FL-33330/43146814_zpid/,12921 SW 52nd St,Southwest Ranches,FL,33330,1229000
+zpid_43146849,for sale,26.059307,-80.3263,3858,3,2,https://www.zillow.com/homedetails/4801-SW-133rd-Ave-Southwest-Ranches-FL-33330/43146849_zpid/,4801 SW 133rd Ave,Southwest Ranches,FL,33330,1850000
+zpid_43150912,for sale,26.057531,-80.322,4357,4,4,https://www.zillow.com/homedetails/5014-Countrybrook-Dr-Cooper-City-FL-33330/43150912_zpid/,5014 Countrybrook Dr,Cooper City,FL,33330,1295000
+zpid_43151089,for sale,26.0528,-80.327065,4769,6,6,https://www.zillow.com/homedetails/13397-Majestic-Way-Cooper-City-FL-33330/43151089_zpid/,13397 Majestic Way,Cooper City,FL,33330,1750000
+zpid_43153576,for sale,26.12995,-80.214775,1498,3,2,https://www.zillow.com/homedetails/4813-NW-6th-St-Plantation-FL-33317/43153576_zpid/,4813 NW 6th St,Plantation,FL,33317,524900
+zpid_43158574,for sale,26.127247,-80.265175,1344,3,3,https://www.zillow.com/homedetails/569-N-Pine-Island-Rd-36-Plantation-FL-33324/43158574_zpid/,569 N Pine Island Rd #36,Plantation,FL,33324,350000
+zpid_43158644,for sale,26.134752,-80.25856,2020,4,3,https://www.zillow.com/homedetails/848-NW-81st-Ave-5-Fort-Lauderdale-FL-33324/43158644_zpid/,848 NW 81st Ave #5,Fort Lauderdale,FL,33324,399000
+zpid_43158789,for sale,26.135159,-80.25874,2020,4,3,https://www.zillow.com/homedetails/849-NW-81st-Ave-4-Plantation-FL-33324/43158789_zpid/,849 NW 81st Ave #4,Plantation,FL,33324,390000
+zpid_43158894,for sale,26.134417,-80.25936,1480,3,3,https://www.zillow.com/homedetails/835-NW-81st-Ter-7-Fort-Lauderdale-FL-33324/43158894_zpid/,835 NW 81st Ter #7,Fort Lauderdale,FL,33324,269000
+zpid_43159016,for sale,26.134468,-80.26154,2020,4,3,https://www.zillow.com/homedetails/8212-NW-8th-Pl-2-Fort-Lauderdale-FL-33324/43159016_zpid/,8212 NW 8th Pl #2,Fort Lauderdale,FL,33324,395999
+zpid_43159021,for sale,26.134123,-80.26156,2020,4,3,https://www.zillow.com/homedetails/8202-NW-8th-Pl-7-Fort-Lauderdale-FL-33324/43159021_zpid/,8202 NW 8th Pl #7,Fort Lauderdale,FL,33324,350000
+zpid_43159890,for sale,26.124458,-80.282005,1820,4,3,https://www.zillow.com/homedetails/9918-NW-2nd-Ct-Plantation-FL-33324/43159890_zpid/,9918 NW 2nd Ct,Plantation,FL,33324,500000
+zpid_43164334,for sale,26.11131,-80.269295,1891,2,3,https://www.zillow.com/homedetails/9050-Jacaranda-Ln-APT-2-Plantation-FL-33324/43164334_zpid/,9050 Jacaranda Ln APT 2,Plantation,FL,33324,370000
+zpid_43166208,for sale,26.109203,-80.24767,2246,4,2,https://www.zillow.com/homedetails/7461-SW-9th-St-Plantation-FL-33317/43166208_zpid/,7461 SW 9th St,Plantation,FL,33317,650000
+zpid_43166233,for sale,26.109205,-80.24468,2112,4,2,https://www.zillow.com/homedetails/7304-SW-9th-Ct-Plantation-FL-33317/43166233_zpid/,7304 SW 9th Ct,Plantation,FL,33317,799000
+zpid_43175596,for sale,26.094713,-80.27717,965,2,2,https://www.zillow.com/homedetails/9441-Live-Oak-Pl-APT-103-Davie-FL-33324/43175596_zpid/,9441 Live Oak Pl APT 103,Davie,FL,33324,335000
+zpid_43176020,for sale,26.096071,-80.274765,1170,3,2,https://www.zillow.com/homedetails/1831-Sabal-Palm-Dr-APT-101-Davie-FL-33324/43176020_zpid/,1831 Sabal Palm Dr APT 101,Davie,FL,33324,285000
+zpid_43184970,for sale,26.062038,-80.29539,1790,4,2,https://www.zillow.com/homedetails/4701-SW-110th-Ave-Davie-FL-33328/43184970_zpid/,4701 SW 110th Ave,Davie,FL,33328,925000
+zpid_43185793,for sale,26.058014,-80.282455,1850,4,3,https://www.zillow.com/homedetails/10203-SW-49th-Pl-Fort-Lauderdale-FL-33328/43185793_zpid/,10203 SW 49th Pl,Fort Lauderdale,FL,33328,770000
+zpid_43193408,for sale,26.132301,-80.1067,691,1,1,https://www.zillow.com/homedetails/624-Orton-Ave-APT-15-Fort-Lauderdale-FL-33304/43193408_zpid/,624 Orton Ave APT 15,Fort Lauderdale,FL,33304,238000
+zpid_43193544,for sale,26.12787,-80.120636,1140,2,2,https://www.zillow.com/homedetails/180-Isle-Of-Venice-Dr-APT-127-Fort-Lauderdale-FL-33301/43193544_zpid/,180 Isle Of Venice Dr APT 127,Fort Lauderdale,FL,33301,500000
+zpid_43195703,for sale,26.134193,-80.16507,1260,3,2,https://www.zillow.com/homedetails/878-NW-17th-Ave-Fort-Lauderdale-FL-33311/43195703_zpid/,878 NW 17th Ave,Fort Lauderdale,FL,33311,445000
+zpid_43196548,for sale,26.131384,-80.18358,1300,4,2,https://www.zillow.com/homedetails/2900-NW-8th-St-Pompano-Beach-FL-33311/43196548_zpid/,2900 NW 8th St,Pompano Beach,FL,33311,369000
+zpid_43200025,for sale,26.112984,-80.19723,1302,2,2,https://www.zillow.com/homedetails/625-W-Dayton-Cir-Fort-Lauderdale-FL-33312/43200025_zpid/,625 W Dayton Cir,Fort Lauderdale,FL,33312,475000
+zpid_43201456,for sale,26.10885,-80.17337,991,2,1,https://www.zillow.com/homedetails/1017-SW-22nd-Ter-Fort-Lauderdale-FL-33312/43201456_zpid/,1017 SW 22nd Ter,Fort Lauderdale,FL,33312,475000
+zpid_43201748,for sale,26.116955,-80.18185,1755,3,2,https://www.zillow.com/homedetails/2840-SW-4th-St-Fort-Lauderdale-FL-33312/43201748_zpid/,2840 SW 4th St,Fort Lauderdale,FL,33312,450000
+zpid_43203097,for sale,26.115696,-80.16176,1965,3,3,https://www.zillow.com/homedetails/1521-SW-5th-Ct-Fort-Lauderdale-FL-33312/43203097_zpid/,1521 SW 5th Ct,Fort Lauderdale,FL,33312,1299999
+zpid_43203666,for sale,26.109438,-80.15677,1500,2,2,https://www.zillow.com/homedetails/1201-River-Reach-Dr-APT-517-Fort-Lauderdale-FL-33315/43203666_zpid/,1201 River Reach Dr APT 517,Fort Lauderdale,FL,33315,499900
+zpid_43205792,for sale,26.119198,-80.12389,1100,2,2,https://www.zillow.com/homedetails/1750-E-Las-Olas-Blvd-APT-503-Fort-Lauderdale-FL-33301/43205792_zpid/,1750 E Las Olas Blvd APT 503,Fort Lauderdale,FL,33301,595000
+zpid_43208858,for sale,26.107498,-80.106865,1214,2,2,https://www.zillow.com/homedetails/3000-Holiday-Dr-APT-606-Fort-Lauderdale-FL-33316/43208858_zpid/,3000 Holiday Dr APT 606,Fort Lauderdale,FL,33316,449000
+zpid_43210004,for sale,26.097183,-80.108604,805,1,1,https://www.zillow.com/homedetails/1920-S-Ocean-Dr-APT-503-Fort-Lauderdale-FL-33316/43210004_zpid/,1920 S Ocean Dr APT 503,Fort Lauderdale,FL,33316,255000
+zpid_43210092,for sale,26.097183,-80.108604,805,1,1,https://www.zillow.com/homedetails/1920-S-Ocean-Dr-APT-1403-Fort-Lauderdale-FL-33316/43210092_zpid/,1920 S Ocean Dr APT 1403,Fort Lauderdale,FL,33316,325000
+zpid_43210995,for sale,26.10358,-80.12299,840,2,2,https://www.zillow.com/homedetails/1777-SE-15th-St-APT-307-Fort-Lauderdale-FL-33316/43210995_zpid/,1777 SE 15th St APT 307,Fort Lauderdale,FL,33316,389900
+zpid_43216278,for sale,26.101803,-80.18667,1192,3,2,https://www.zillow.com/homedetails/3113-SW-15th-Ct-Fort-Lauderdale-FL-33312/43216278_zpid/,3113 SW 15th Ct,Fort Lauderdale,FL,33312,443000
+zpid_43217414,for sale,26.098545,-80.193275,1440,3,2,https://www.zillow.com/homedetails/1721-SW-35th-Ave-Fort-Lauderdale-FL-33312/43217414_zpid/,1721 SW 35th Ave,Fort Lauderdale,FL,33312,499999
+zpid_43220794,for sale,26.058735,-80.18837,2436,4,3,https://www.zillow.com/homedetails/3272-SW-51st-St-Fort-Lauderdale-FL-33312/43220794_zpid/,3272 SW 51st St,Fort Lauderdale,FL,33312,1084000
+zpid_43226371,for sale,26.02051,-80.39349,1878,4,2,https://www.zillow.com/homedetails/1961-NW-184th-Ter-Pembroke-Pines-FL-33029/43226371_zpid/,1961 NW 184th Ter,Pembroke Pines,FL,33029,600000
+zpid_43228225,for sale,26.016863,-80.394844,1612,3,2,https://www.zillow.com/homedetails/18428-NW-13th-St-Pembroke-Pines-FL-33029/43228225_zpid/,18428 NW 13th St,Pembroke Pines,FL,33029,675000
+zpid_43229125,for sale,26.014484,-80.4239,1595,3,2,https://www.zillow.com/homedetails/20731-NW-8th-St-Pembroke-Pines-FL-33029/43229125_zpid/,20731 NW 8th St,Pembroke Pines,FL,33029,599000
+zpid_43235652,for sale,26.010647,-80.37703,1176,2,2,https://www.zillow.com/homedetails/611-NW-172nd-Ter-Pembroke-Pines-FL-33029/43235652_zpid/,611 NW 172nd Ter,Pembroke Pines,FL,33029,442000
+zpid_43237222,for sale,26.025085,-80.36543,2108,4,3,https://www.zillow.com/homedetails/16311-NW-19th-St-Pembroke-Pines-FL-33028/43237222_zpid/,16311 NW 19th St,Pembroke Pines,FL,33028,635000
+zpid_43238317,for sale,26.012873,-80.35468,1582,3,2,https://www.zillow.com/homedetails/530-NW-158th-Ave-Pembroke-Pines-FL-33028/43238317_zpid/,530 NW 158th Ave,Pembroke Pines,FL,33028,650000
+zpid_43253913,for sale,25.997488,-80.38717,1356,3,2,https://www.zillow.com/homedetails/17922-SW-11th-St-Pembroke-Pines-FL-33029/43253913_zpid/,17922 SW 11th St,Pembroke Pines,FL,33029,530000
+zpid_43261777,for sale,25.99021,-80.383965,1669,3,3,https://www.zillow.com/homedetails/17632-SW-19th-St-Miramar-FL-33029/43261777_zpid/,17632 SW 19th St,Miramar,FL,33029,590000
+zpid_43266934,for sale,26.043823,-80.22433,1456,3,2,https://www.zillow.com/homedetails/6760-Perry-St-Hollywood-FL-33024/43266934_zpid/,6760 Perry St,Hollywood,FL,33024,539000
+zpid_43268919,for sale,26.032516,-80.239555,1701,4,2,https://www.zillow.com/homedetails/7540-Raleigh-St-Hollywood-FL-33024/43268919_zpid/,7540 Raleigh St,Hollywood,FL,33024,518500
+zpid_43274100,for sale,26.016888,-80.28165,1120,2,2,https://www.zillow.com/homedetails/1200-Saint-Charles-Pl-APT-404-Pembroke-Pines-FL-33026/43274100_zpid/,1200 Saint Charles Pl APT 404,Pembroke Pines,FL,33026,209900
+zpid_43276954,for sale,26.019522,-80.274155,1214,2,3,https://www.zillow.com/homedetails/1444-NW-97th-Ave-267-Pembroke-Pines-FL-33024/43276954_zpid/,1444 NW 97th Ave #267,Pembroke Pines,FL,33024,350000
+zpid_43277696,for sale,26.01676,-80.25424,1640,2,2,https://www.zillow.com/homedetails/8390-NW-10th-St-Pembroke-Pines-FL-33024/43277696_zpid/,8390 NW 10th St,Pembroke Pines,FL,33024,510000
+zpid_43278303,for sale,26.017467,-80.26117,1726,3,2,https://www.zillow.com/homedetails/8750-NW-11th-St-Pembroke-Pines-FL-33024/43278303_zpid/,8750 NW 11th St,Pembroke Pines,FL,33024,570000
+zpid_43278656,for sale,26.026522,-80.25677,2256,4,2,https://www.zillow.com/homedetails/2040-NW-85th-Ave-Pembroke-Pines-FL-33024/43278656_zpid/,2040 NW 85th Ave,Pembroke Pines,FL,33024,675500
+zpid_43283212,for sale,26.019976,-80.21102,2438,3,2,https://www.zillow.com/homedetails/6129-Hayes-St-Hollywood-FL-33024/43283212_zpid/,6129 Hayes St,Hollywood,FL,33024,525000
+zpid_43283609,for sale,26.02158,-80.20308,1774,3,2,https://www.zillow.com/homedetails/5731-Arthur-St-Hollywood-FL-33021/43283609_zpid/,5731 Arthur St,Hollywood,FL,33021,479000
+zpid_43283752,for sale,26.030111,-80.20325,1218,3,2,https://www.zillow.com/homedetails/2231-N-57th-Way-Hollywood-FL-33021/43283752_zpid/,2231 N 57th Way,Hollywood,FL,33021,470000
+zpid_43285225,for sale,26.007654,-80.20113,1651,3,2,https://www.zillow.com/homedetails/314-S-57th-Ave-Hollywood-FL-33023/43285225_zpid/,314 S 57th Ave,Hollywood,FL,33023,510000
+zpid_43286279,for sale,26.01639,-80.218346,1973,3,1,https://www.zillow.com/homedetails/6472-Lincoln-St-Hollywood-FL-33024/43286279_zpid/,6472 Lincoln St,Hollywood,FL,33024,595000
+zpid_43286778,for sale,26.013203,-80.22619,2060,4,3,https://www.zillow.com/homedetails/6920-Fillmore-St-Hollywood-FL-33024/43286778_zpid/,6920 Fillmore St,Hollywood,FL,33024,650000
+zpid_43291174,for sale,26.00423,-80.26766,1170,2,2,https://www.zillow.com/homedetails/8960-S-Hollybrook-Blvd-APT-302-Hollywood-FL-33025/43291174_zpid/,8960 S Hollybrook Blvd APT 302,Hollywood,FL,33025,150000
+zpid_43292749,for sale,26.011698,-80.28884,1008,2,2,https://www.zillow.com/homedetails/520-NW-106th-Ter-Pembroke-Pines-FL-33026/43292749_zpid/,520 NW 106th Ter,Pembroke Pines,FL,33026,375000
+zpid_43297626,for sale,25.999289,-80.25805,1189,3,2,https://www.zillow.com/homedetails/1110-SW-86th-Ave-Pembroke-Pines-FL-33024/43297626_zpid/,1110 SW 86th Ave,Pembroke Pines,FL,33024,475000
+zpid_43304863,for sale,25.975065,-80.207085,1504,3,3,https://www.zillow.com/homedetails/6017-SW-39th-St-Miramar-FL-33023/43304863_zpid/,6017 SW 39th St,Miramar,FL,33023,250000
+zpid_43305882,for sale,25.983377,-80.2286,1471,4,2,https://www.zillow.com/homedetails/7071-SW-29th-St-Hollywood-FL-33023/43305882_zpid/,7071 SW 29th St,Hollywood,FL,33023,434900
+zpid_43315756,for sale,26.037722,-80.13765,1144,2,2,https://www.zillow.com/homedetails/325-SE-11th-Ter-APT-301-Dania-Beach-FL-33004/43315756_zpid/,325 SE 11th Ter APT 301,Dania Beach,FL,33004,259500
+zpid_43316635,for sale,26.033918,-80.154945,1010,3,2,https://www.zillow.com/homedetails/2344-Hope-St-Hollywood-FL-33020/43316635_zpid/,2344 Hope St,Hollywood,FL,33020,238360
+zpid_43316812,for sale,26.035223,-80.18326,1854,4,3,https://www.zillow.com/homedetails/3905-Farragut-St-Hollywood-FL-33021/43316812_zpid/,3905 Farragut St,Hollywood,FL,33021,545000
+zpid_43317541,for sale,26.034931,-80.17707,1889,4,3,https://www.zillow.com/homedetails/3326-Farragut-St-6G-Hollywood-FL-33021/43317541_zpid/,3326 Farragut St #6G,Hollywood,FL,33021,399999
+zpid_43317584,for sale,26.036098,-80.176216,1889,4,3,https://www.zillow.com/homedetails/3301-Simms-St-12B-Hollywood-FL-33021/43317584_zpid/,3301 Simms St #12B,Hollywood,FL,33021,583000
+zpid_43318092,for sale,26.039614,-80.179985,1238,2,2,https://www.zillow.com/homedetails/3204-Arbor-Ln-2404-Hollywood-FL-33021/43318092_zpid/,3204 Arbor Ln #2404,Hollywood,FL,33021,399900
+zpid_43320866,for sale,26.013037,-80.183,1987,3,3,https://www.zillow.com/homedetails/307-N-Rainbow-Dr-Hollywood-FL-33021/43320866_zpid/,307 N Rainbow Dr,Hollywood,FL,33021,700000
+zpid_43323682,for sale,26.029264,-80.19586,1618,3,2,https://www.zillow.com/homedetails/2101-N-52nd-Ave-Hollywood-FL-33021/43323682_zpid/,2101 N 52nd Ave,Hollywood,FL,33021,926000
+zpid_43324166,for sale,26.026176,-80.1978,1558,3,3,https://www.zillow.com/homedetails/1801-N-54th-Ave-Hollywood-FL-33021/43324166_zpid/,1801 N 54th Ave,Hollywood,FL,33021,749000
+zpid_43324188,for sale,26.026617,-80.19984,1678,4,2,https://www.zillow.com/homedetails/1831-N-56th-Ave-Hollywood-FL-33021/43324188_zpid/,1831 N 56th Ave,Hollywood,FL,33021,860000
+zpid_43324252,for sale,26.023588,-80.1982,1522,3,2,https://www.zillow.com/homedetails/5405-McKinley-St-Hollywood-FL-33021/43324252_zpid/,5405 McKinley St,Hollywood,FL,33021,600000
+zpid_43325002,for sale,26.011812,-80.18063,615,1,1,https://www.zillow.com/homedetails/3701-Tyler-St-APT-210-Hollywood-FL-33021/43325002_zpid/,3701 Tyler St APT 210,Hollywood,FL,33021,135000
+zpid_43325688,for sale,26.021156,-80.16907,1675,3,2,https://www.zillow.com/homedetails/3046-Garfield-St-Hollywood-FL-33021/43325688_zpid/,3046 Garfield St,Hollywood,FL,33021,510000
+zpid_43325745,for sale,26.02591,-80.17355,1273,3,2,https://www.zillow.com/homedetails/3209-Taft-St-Hollywood-FL-33021/43325745_zpid/,3209 Taft St,Hollywood,FL,33021,509900
+zpid_43326689,for sale,26.021072,-80.160545,1112,3,1,https://www.zillow.com/homedetails/2626-Garfield-St-Hollywood-FL-33020/43326689_zpid/,2626 Garfield St,Hollywood,FL,33020,425000
+zpid_43327641,for sale,26.026588,-80.16104,1392,3,2,https://www.zillow.com/homedetails/2640-Wilson-St-Hollywood-FL-33020/43327641_zpid/,2640 Wilson St,Hollywood,FL,33020,575000
+zpid_43328838,for sale,26.028927,-80.13546,1957,3,2,https://www.zillow.com/homedetails/1406-Coolidge-St-Hollywood-FL-33020/43328838_zpid/,1406 Coolidge St,Hollywood,FL,33020,739000
+zpid_43331048,for sale,26.027142,-80.12449,1604,3,3,https://www.zillow.com/homedetails/1765-Weeping-Willow-Way-Hollywood-FL-33019/43331048_zpid/,1765 Weeping Willow Way,Hollywood,FL,33019,617000
+zpid_43331815,for sale,26.028318,-80.11538,262,1,1,https://www.zillow.com/homedetails/322-Harding-St-B202-Hollywood-FL-33019/43331815_zpid/,322 Harding St #B202,Hollywood,FL,33019,270000
+zpid_43333158,for sale,26.008638,-80.11603,638,1,1,https://www.zillow.com/homedetails/300-Oregon-St-APT-109-Hollywood-FL-33019/43333158_zpid/,300 Oregon St APT 109,Hollywood,FL,33019,399900
+zpid_43333660,for sale,26.01473,-80.116394,540,1,1,https://www.zillow.com/homedetails/322-Taylor-St-2I-Hollywood-FL-33019/43333660_zpid/,322 Taylor St #2I,Hollywood,FL,33019,239000
+zpid_43333685,for sale,26.007046,-80.11629,500,1,1,https://www.zillow.com/homedetails/901-S-Surf-Rd-APT-306-Hollywood-FL-33019/43333685_zpid/,901 S Surf Rd APT 306,Hollywood,FL,33019,299900
+zpid_43335867,for sale,26.006205,-80.14353,1332,2,2,https://www.zillow.com/homedetails/1811-Jefferson-St-APT-601-Hollywood-FL-33020/43335867_zpid/,1811 Jefferson St APT 601,Hollywood,FL,33020,209900
+zpid_43336622,for sale,26.01396,-80.15836,877,2,1,https://www.zillow.com/homedetails/2535-Taylor-St-Hollywood-FL-33020/43336622_zpid/,2535 Taylor St,Hollywood,FL,33020,535000
+zpid_43339446,for sale,26.007593,-80.18105,1100,2,2,https://www.zillow.com/homedetails/412-S-Luna-Ct-APT-12-Hollywood-FL-33021/43339446_zpid/,412 S Luna Ct APT 12,Hollywood,FL,33021,195000
+zpid_43340179,for sale,25.99095,-80.19365,720,2,1,https://www.zillow.com/homedetails/5013-SW-22nd-St-Hollywood-FL-33023/43340179_zpid/,5013 SW 22nd St,Hollywood,FL,33023,360000
+zpid_43344495,for sale,25.992142,-80.15322,1498,4,2,https://www.zillow.com/homedetails/608-NW-5th-Ave-Hallandale-FL-33009/43344495_zpid/,608 NW 5th Ave,Hallandale,FL,33009,450000
+zpid_43351025,for sale,25.99385,-80.121185,1130,2,4,https://www.zillow.com/homedetails/600-Parkview-Dr-APT-819-Hallandale-FL-33009/43351025_zpid/,600 Parkview Dr APT 819,Hallandale,FL,33009,379000
+zpid_43359451,for sale,25.982721,-80.12365,1311,2,2,https://www.zillow.com/homedetails/137-Golden-Isles-Dr-APT-1510-Hallandale-FL-33009/43359451_zpid/,137 Golden Isles Dr APT 1510,Hallandale,FL,33009,320000
+zpid_43364706,for sale,25.98502,-80.12703,1120,2,2,https://www.zillow.com/homedetails/2200-Diana-Dr-APT-216-Hallandale-FL-33009/43364706_zpid/,2200 Diana Dr APT 216,Hallandale,FL,33009,285000
+zpid_43366863,for sale,25.983053,-80.14533,770,1,2,https://www.zillow.com/homedetails/215-SE-3rd-Ave-APT-304D-Hallandale-Beach-FL-33009/43366863_zpid/,215 SE 3rd Ave APT 304D,Hallandale Beach,FL,33009,122000
+zpid_43750601,for sale,26.178802,-81.68921,800,2,2,https://www.zillow.com/homedetails/4306-27th-Ct-SW-APT-103-Naples-FL-34116/43750601_zpid/,4306 27th Ct SW APT 103,Naples,FL,34116,215000
+zpid_43762796,for sale,26.227858,-81.537315,1980,4,3,https://www.zillow.com/homedetails/3461-2nd-Ave-SE-Naples-FL-34117/43762796_zpid/,3461 2nd Ave SE,Naples,FL,34117,529000
+zpid_43763021,for sale,26.204094,-81.55109,1690,3,2,https://www.zillow.com/homedetails/2760-14th-Ave-SE-Naples-FL-34117/43763021_zpid/,2760 14th Ave SE,Naples,FL,34117,506000
+zpid_43806592,for sale,25.84562,-80.205666,1274,3,2,https://www.zillow.com/homedetails/7714-NW-5th-Ave-Miami-FL-33150/43806592_zpid/,7714 NW 5th Ave,Miami,FL,33150,375000
+zpid_43807008,for sale,25.83754,-80.196884,1402,2,2,https://www.zillow.com/homedetails/10-NW-68th-Ter-Miami-FL-33150/43807008_zpid/,10 NW 68th Ter,Miami,FL,33150,445000
+zpid_43807086,for sale,25.838682,-80.1985,2022,5,3,https://www.zillow.com/homedetails/97-NW-69th-St-Miami-FL-33150/43807086_zpid/,97 NW 69th St,Miami,FL,33150,550000
+zpid_43807298,for sale,25.835278,-80.19716,1183,3,2,https://www.zillow.com/homedetails/40-NW-65th-St-Miami-FL-33150/43807298_zpid/,40 NW 65th St,Miami,FL,33150,648000
+zpid_43807559,for sale,25.837507,-80.20774,1122,3,2,https://www.zillow.com/homedetails/6845-NW-6th-Ct-Miami-FL-33150/43807559_zpid/,6845 NW 6th Ct,Miami,FL,33150,450000
+zpid_43807798,for sale,25.837257,-80.19869,824,2,1,https://www.zillow.com/homedetails/121-NW-68th-St-Miami-FL-33150/43807798_zpid/,121 NW 68th St,Miami,FL,33150,525000
+zpid_43807899,for sale,25.827757,-80.20461,1081,3,2,https://www.zillow.com/homedetails/5647-NW-5th-Ct-Miami-FL-33127/43807899_zpid/,5647 NW 5th Ct,Miami,FL,33127,550000
+zpid_43808294,for sale,25.82617,-80.199844,1680,3,2,https://www.zillow.com/homedetails/5501-NW-2nd-Ave-Miami-FL-33127/43808294_zpid/,5501 NW 2nd Ave,Miami,FL,33127,1150000
+zpid_43808670,for sale,25.827164,-80.21519,2073,4,2,https://www.zillow.com/homedetails/1141-NW-56th-St-Miami-FL-33127/43808670_zpid/,1141 NW 56th St,Miami,FL,33127,549000
+zpid_43808741,for sale,25.830116,-80.214066,2072,3,3,https://www.zillow.com/homedetails/1091-NW-59th-St-Miami-FL-33127/43808741_zpid/,1091 NW 59th St,Miami,FL,33127,724900
+zpid_43809015,for sale,25.83651,-80.22228,974,3,1,https://www.zillow.com/homedetails/1460-NW-68th-Ter-Miami-FL-33147/43809015_zpid/,1460 NW 68th Ter,Miami,FL,33147,360000
+zpid_43809699,for sale,25.833408,-80.21432,1044,3,2,https://www.zillow.com/homedetails/1084-NW-64th-St-Miami-FL-33150/43809699_zpid/,1084 NW 64th St,Miami,FL,33150,430000
+zpid_43810021,for sale,25.825205,-80.2186,2380,3,2,https://www.zillow.com/homedetails/5428-NW-13th-Ave-Miami-FL-33142/43810021_zpid/,5428 NW 13th Ave,Miami,FL,33142,650000
+zpid_43810846,for sale,,,1458,4,2,https://www.zillow.com/homedetails/Miami-FL-33142/43810846_zpid/,(undisclosed Address),Miami,FL,33142,575000
+zpid_43811125,for sale,25.822678,-80.22734,1345,3,2,https://www.zillow.com/homedetails/1830-NW-52nd-St-Miami-FL-33142/43811125_zpid/,1830 NW 52nd St,Miami,FL,33142,374000
+zpid_43812877,for sale,25.8162,-80.21684,1167,3,1,https://www.zillow.com/homedetails/1244-NW-45th-St-Miami-FL-33142/43812877_zpid/,1244 NW 45th St,Miami,FL,33142,425000
+zpid_43813545,for sale,25.818445,-80.208824,1564,4,2,https://www.zillow.com/homedetails/745-NW-47th-St-Miami-FL-33127/43813545_zpid/,745 NW 47th St,Miami,FL,33127,520000
+zpid_43815156,for sale,25.813532,-80.19815,1244,3,2,https://www.zillow.com/homedetails/125-NW-40th-St-Miami-FL-33127/43815156_zpid/,125 NW 40th St,Miami,FL,33127,650000
+zpid_43817491,for sale,25.798788,-80.225365,795,3,1,https://www.zillow.com/homedetails/2323-NW-18th-Ave-Miami-FL-33142/43817491_zpid/,2323 NW 18th Ave,Miami,FL,33142,330000
+zpid_43818235,for sale,25.800844,-80.23245,1350,2,2,https://www.zillow.com/homedetails/2643-NW-22nd-Ct-Miami-FL-33142/43818235_zpid/,2643 NW 22nd Ct,Miami,FL,33142,459000
+zpid_43820582,for sale,25.7811,-80.26838,1664,4,2,https://www.zillow.com/homedetails/4413-NW-9th-St-Miami-FL-33126/43820582_zpid/,4413 NW 9th St,Miami,FL,33126,624000
+zpid_43820884,for sale,25.790634,-80.267136,750,2,1,https://www.zillow.com/homedetails/4275-NW-South-Tamiami-Canal-Dr-2-301-Miami-FL-33126/43820884_zpid/,4275 NW South Tamiami Canal Dr #2-301,Miami,FL,33126,270000
+zpid_43821151,for sale,25.783937,-80.25343,1689,6,5,https://www.zillow.com/homedetails/3554-NW-12th-Ter-Miami-FL-33125/43821151_zpid/,3554 NW 12th Ter,Miami,FL,33125,685000
+zpid_43821459,for sale,25.790909,-80.25024,946,2,1,https://www.zillow.com/homedetails/1730-NW-33rd-Ave-Miami-FL-33125/43821459_zpid/,1730 NW 33rd Ave,Miami,FL,33125,500000
+zpid_43821766,for sale,25.793827,-80.24829,1553,3,2,https://www.zillow.com/homedetails/3210-NW-20th-St-Miami-FL-33142/43821766_zpid/,3210 NW 20th St,Miami,FL,33142,624900
+zpid_43822519,for sale,25.78193,-80.23995,1948,6,4,https://www.zillow.com/homedetails/991-NW-27th-Ct-Miami-FL-33125/43822519_zpid/,991 NW 27th Ct,Miami,FL,33125,575000
+zpid_43823835,for sale,25.793488,-80.23078,1437,3,2,https://www.zillow.com/homedetails/2161-NW-19th-St-Miami-FL-33125/43823835_zpid/,2161 NW 19th St,Miami,FL,33125,450000
+zpid_43824571,for sale,25.781904,-80.223656,1322,4,3,https://www.zillow.com/homedetails/860-NW-17th-Ct-Miami-FL-33125/43824571_zpid/,860 NW 17th Ct,Miami,FL,33125,675000
+zpid_43825504,for sale,25.785172,-80.22656,1000,2,2,https://www.zillow.com/homedetails/1901-NW-South-River-Dr-APT-16B-Miami-FL-33125/43825504_zpid/,1901 NW South River Dr APT 16B,Miami,FL,33125,330000
+zpid_43825547,for sale,25.785172,-80.22656,1000,2,2,https://www.zillow.com/homedetails/1901-NW-South-River-Dr-APT-60F-Miami-FL-33125/43825547_zpid/,1901 NW South River Dr APT 60F,Miami,FL,33125,379000
+zpid_43826178,for sale,25.793783,-80.20004,1175,3,2,https://www.zillow.com/homedetails/1921-NW-3rd-Ave-Miami-FL-33136/43826178_zpid/,1921 NW 3rd Ave,Miami,FL,33136,699000
+zpid_43826685,for sale,25.78109,-80.19864,1037,2,2,https://www.zillow.com/homedetails/269-NW-7th-St-APT-320J-Miami-FL-33136/43826685_zpid/,269 NW 7th St APT 320J,Miami,FL,33136,369900
+zpid_43827009,for sale,25.85115,-80.18102,1053,2,1,https://www.zillow.com/homedetails/761-NE-82nd-Ter-Miami-FL-33138/43827009_zpid/,761 NE 82nd Ter,Miami,FL,33138,799996
+zpid_43827697,for sale,25.84397,-80.17373,2906,4,5,https://www.zillow.com/homedetails/1161-Belle-Meade-Island-Dr-Miami-FL-33138/43827697_zpid/,1161 Belle Meade Island Dr,Miami,FL,33138,9500000
+zpid_43827968,for sale,25.840546,-80.1871,1990,3,3,https://www.zillow.com/homedetails/443-NE-71st-St-Miami-FL-33138/43827968_zpid/,443 NE 71st St,Miami,FL,33138,1200000
+zpid_43828132,for sale,25.853464,-80.18008,2013,4,4,https://www.zillow.com/homedetails/8430-E-Dixie-Hwy-Miami-FL-33138/43828132_zpid/,8430 E Dixie Hwy,Miami,FL,33138,999999
+zpid_43828459,for sale,25.851746,-80.173164,2610,4,3,https://www.zillow.com/homedetails/1230-NE-83rd-St-Miami-FL-33138/43828459_zpid/,1230 NE 83rd St,Miami,FL,33138,2465000
+zpid_43829087,for sale,25.831472,-80.18675,1496,3,3,https://www.zillow.com/homedetails/5985-NE-4th-Ct-Miami-FL-33137/43829087_zpid/,5985 NE 4th Ct,Miami,FL,33137,1194600
+zpid_43829090,for sale,25.831167,-80.186264,2613,3,3,https://www.zillow.com/homedetails/5954-NE-5th-Ave-Miami-FL-33137/43829090_zpid/,5954 NE 5th Ave,Miami,FL,33137,2490000
+zpid_43829422,for sale,25.837172,-80.180405,2957,3,4,https://www.zillow.com/homedetails/720-NE-69th-St-APT-22N-Miami-FL-33138/43829422_zpid/,720 NE 69th St APT 22N,Miami,FL,33138,1125000
+zpid_43829776,for sale,25.83887,-80.18001,1219,2,2,https://www.zillow.com/homedetails/780-NE-69th-St-APT-2308-Miami-FL-33138/43829776_zpid/,780 NE 69th St APT 2308,Miami,FL,33138,479000
+zpid_43829815,for sale,25.83887,-80.18001,1316,2,2,https://www.zillow.com/homedetails/780-NE-69th-St-APT-1610-Miami-FL-33138/43829815_zpid/,780 NE 69th St APT 1610,Miami,FL,33138,449000
+zpid_43832745,for sale,25.791523,-80.18616,985,1,2,https://www.zillow.com/homedetails/1717-N-Bayshore-Dr-A-2952-Miami-FL-33132/43832745_zpid/,1717 N Bayshore Dr #A-2952,Miami,FL,33132,395000
+zpid_43832873,for sale,25.791523,-80.18616,1827,3,3,https://www.zillow.com/homedetails/1717-N-Bayshore-Dr-A-2956-Miami-FL-33132/43832873_zpid/,1717 N Bayshore Dr #A-2956,Miami,FL,33132,695000
+zpid_43833330,for sale,25.790186,-80.1857,380,Studio,1,https://www.zillow.com/homedetails/555-NE-15th-St-APT-406-Miami-FL-33132/43833330_zpid/,555 NE 15th St APT 406,Miami,FL,33132,205000
+zpid_43833486,for sale,25.790186,-80.1857,890,1,2,https://www.zillow.com/homedetails/555-NE-15th-St-PENTHOUSE-D-Miami-FL-33132/43833486_zpid/,555 NE 15th St PENTHOUSE D,Miami,FL,33132,395000
+zpid_43835237,for sale,25.766573,-80.3034,1620,3,2,https://www.zillow.com/homedetails/6610-SW-4th-St-Miami-FL-33144/43835237_zpid/,6610 SW 4th St,Miami,FL,33144,620000
+zpid_43835244,for sale,25.765652,-80.303314,1470,2,1,https://www.zillow.com/homedetails/516-SW-66th-Ave-Miami-FL-33144/43835244_zpid/,516 SW 66th Ave,Miami,FL,33144,470000
+zpid_43837803,for sale,25.770187,-80.21867,2143,4,2,https://www.zillow.com/homedetails/1436-SW-3rd-St-Miami-FL-33135/43837803_zpid/,1436 SW 3rd St,Miami,FL,33135,645000
+zpid_43837928,for sale,25.77197,-80.22175,690,2,1,https://www.zillow.com/homedetails/1620-SW-1st-St-APT-12-Miami-FL-33135/43837928_zpid/,1620 SW 1st St APT 12,Miami,FL,33135,214900
+zpid_43838101,for sale,25.772875,-80.212555,706,2,2,https://www.zillow.com/homedetails/1051-SW-1st-St-APT-401-Miami-FL-33130/43838101_zpid/,1051 SW 1st St APT 401,Miami,FL,33130,300000
+zpid_43838451,for sale,25.776854,-80.2252,1908,4,2,https://www.zillow.com/homedetails/1822-NW-4th-St-Miami-FL-33125/43838451_zpid/,1822 NW 4th St,Miami,FL,33125,715000
+zpid_43842000,for sale,25.766249,-80.24727,1305,4,2,https://www.zillow.com/homedetails/630-SW-32nd-Ave-Miami-FL-33135/43842000_zpid/,630 SW 32nd Ave,Miami,FL,33135,549000
+zpid_43842901,for sale,25.777222,-80.25942,1804,4,4,https://www.zillow.com/homedetails/3894-NW-5th-St-Miami-FL-33126/43842901_zpid/,3894 NW 5th St,Miami,FL,33126,715000
+zpid_43843534,for sale,25.764914,-80.265915,1837,4,2,https://www.zillow.com/homedetails/4320-SW-7th-St-Miami-FL-33134/43843534_zpid/,4320 SW 7th St,Miami,FL,33134,699900
+zpid_43844467,for sale,25.775616,-80.26425,972,2,2,https://www.zillow.com/homedetails/300-NW-42nd-Ave-APT-402-Miami-FL-33126/43844467_zpid/,300 NW 42nd Ave APT 402,Miami,FL,33126,340000
+zpid_43844491,for sale,25.775616,-80.26425,972,2,2,https://www.zillow.com/homedetails/300-NW-42nd-Ave-APT-802-Miami-FL-33126/43844491_zpid/,300 NW 42nd Ave APT 802,Miami,FL,33126,355000
+zpid_43845842,for sale,25.773962,-80.27409,1265,3,2,https://www.zillow.com/homedetails/227-NW-48th-Ct-Miami-FL-33126/43845842_zpid/,227 NW 48th Ct,Miami,FL,33126,560000
+zpid_43847256,for sale,25.761541,-80.24362,1191,3,2,https://www.zillow.com/homedetails/3031-SW-12th-St-Miami-FL-33135/43847256_zpid/,3031 SW 12th St,Miami,FL,33135,499900
+zpid_43847505,for sale,25.759245,-80.24221,2027,4,2,https://www.zillow.com/homedetails/2978-SW-14th-St-Miami-FL-33145/43847505_zpid/,2978 SW 14th St,Miami,FL,33145,985000
+zpid_43848779,for sale,25.751925,-80.24327,1810,3,2,https://www.zillow.com/homedetails/3045-SW-21st-St-Miami-FL-33145/43848779_zpid/,3045 SW 21st St,Miami,FL,33145,690000
+zpid_43849957,for sale,25.75759,-80.23637,1374,3,2,https://www.zillow.com/homedetails/1601-SW-25th-Ave-Miami-FL-33145/43849957_zpid/,1601 SW 25th Ave,Miami,FL,33145,600000
+zpid_43850220,for sale,25.758373,-80.22557,1603,3,3,https://www.zillow.com/homedetails/1859-SW-16th-St-Miami-FL-33145/43850220_zpid/,1859 SW 16th St,Miami,FL,33145,1099000
+zpid_43850700,for sale,25.762077,-80.22904,738,2,1,https://www.zillow.com/homedetails/2127-SW-11th-Ter-Miami-FL-33135/43850700_zpid/,2127 SW 11th Ter,Miami,FL,33135,580000
+zpid_43850770,for sale,25.755482,-80.23089,1583,3,2,https://www.zillow.com/homedetails/2214-SW-17th-Ter-Miami-FL-33145/43850770_zpid/,2214 SW 17th Ter,Miami,FL,33145,800000
+zpid_43852650,for sale,25.763111,-80.23574,1344,3,3,https://www.zillow.com/homedetails/2449-SW-11th-St-2-A-Miami-FL-33135/43852650_zpid/,2449 SW 11th St #2-A,Miami,FL,33135,500000
+zpid_43853748,for sale,25.746885,-80.21425,6320,7,8,https://www.zillow.com/homedetails/30-Samana-Dr-Miami-FL-33133/43853748_zpid/,30 Samana Dr,Miami,FL,33133,2875000
+zpid_43853934,for sale,25.742783,-80.22138,4575,6,5,https://www.zillow.com/homedetails/2721-SW-17th-Ave-Miami-FL-33133/43853934_zpid/,2721 SW 17th Ave,Miami,FL,33133,6399999
+zpid_43854429,for sale,25.736145,-80.21826,2398,3,2,https://www.zillow.com/homedetails/3-Grove-Isle-Dr-C902-Miami-FL-33133/43854429_zpid/,3 Grove Isle Dr #C902,Miami,FL,33133,1900000
+zpid_43854544,for sale,25.736145,-80.21826,2614,3,3,https://www.zillow.com/homedetails/3-Grove-Isle-Dr-C909-Miami-FL-33133/43854544_zpid/,3 Grove Isle Dr #C909,Miami,FL,33133,1699000
+zpid_43855196,for sale,25.7461,-80.23617,918,3,2,https://www.zillow.com/homedetails/2450-SW-25th-Ave-Miami-FL-33145/43855196_zpid/,2450 SW 25th Ave,Miami,FL,33145,684000
+zpid_43855329,for sale,25.74351,-80.23237,1161,3,2,https://www.zillow.com/homedetails/2315-SW-26th-Ter-Miami-FL-33133/43855329_zpid/,2315 SW 26th Ter,Miami,FL,33133,799500
+zpid_43855555,for sale,25.739704,-80.231606,775,3,2,https://www.zillow.com/homedetails/2791-Kirk-St-Miami-FL-33133/43855555_zpid/,2791 Kirk St,Miami,FL,33133,1325000
+zpid_43855860,for sale,25.748215,-80.22295,3603,4,5,https://www.zillow.com/homedetails/1750-SW-23rd-Ter-Miami-FL-33145/43855860_zpid/,1750 SW 23rd Ter,Miami,FL,33145,2400000
+zpid_43855964,for sale,25.74178,-80.22294,2181,3,2,https://www.zillow.com/homedetails/1755-Tigertail-Ave-Miami-FL-33133/43855964_zpid/,1755 Tigertail Ave,Miami,FL,33133,3700000
+zpid_43856043,for sale,25.737617,-80.2237,1400,3,3,https://www.zillow.com/homedetails/3531-Vista-Ct-Miami-FL-33133/43856043_zpid/,3531 Vista Ct,Miami,FL,33133,2175000
+zpid_43856240,for sale,25.744785,-80.2237,2945,4,5,https://www.zillow.com/homedetails/1769-Wa-Kee-Na-Dr-Miami-FL-33133/43856240_zpid/,1769 Wa Kee Na Dr,Miami,FL,33133,2649000
+zpid_43856441,for sale,25.736889,-80.235794,2372,6,5,https://www.zillow.com/homedetails/2540-Inagua-Ave-Miami-FL-33133/43856441_zpid/,2540 Inagua Ave,Miami,FL,33133,2499000
+zpid_43856724,for sale,25.746937,-80.22368,2392,4,3,https://www.zillow.com/homedetails/1791-SW-24th-Ter-Miami-FL-33145/43856724_zpid/,1791 SW 24th Ter,Miami,FL,33145,1325000
+zpid_43856775,for sale,25.744745,-80.22259,2403,4,3,https://www.zillow.com/homedetails/1728-Wa-Kee-Na-Dr-Miami-FL-33133/43856775_zpid/,1728 Wa Kee Na Dr,Miami,FL,33133,2795000
+zpid_43856984,for sale,25.743483,-80.23024,702,1,1,https://www.zillow.com/homedetails/2690-SW-22nd-Ave-APT-308-Miami-FL-33133/43856984_zpid/,2690 SW 22nd Ave APT 308,Miami,FL,33133,296000
+zpid_43857644,for sale,25.74795,-80.24476,978,2,1,https://www.zillow.com/homedetails/3154-SW-23rd-St-Miami-FL-33145/43857644_zpid/,3154 SW 23rd St,Miami,FL,33145,525000
+zpid_43860355,for sale,25.721376,-80.26112,2106,3,2,https://www.zillow.com/homedetails/3721-S-Le-Jeune-Rd-Miami-FL-33146/43860355_zpid/,3721 S Le Jeune Rd,Miami,FL,33146,1400000
+zpid_43860744,for sale,25.732145,-80.24992,1500,4,2,https://www.zillow.com/homedetails/3161-Hibiscus-St-Miami-FL-33133/43860744_zpid/,3161 Hibiscus St,Miami,FL,33133,990000
+zpid_43861490,for sale,25.733831,-80.23926,1212,2,2,https://www.zillow.com/homedetails/2869-Shipping-Ave-Miami-FL-33133/43861490_zpid/,2869 Shipping Ave,Miami,FL,33133,1199000
+zpid_43862485,for sale,25.728462,-80.23895,1200,2,2,https://www.zillow.com/homedetails/2843-S-Bayshore-Dr-APT-4E-Miami-FL-33133/43862485_zpid/,2843 S Bayshore Dr APT 4E,Miami,FL,33133,1177000
+zpid_43863053,for sale,25.727268,-80.239914,620,1,1,https://www.zillow.com/homedetails/2951-S-Bayshore-Dr-911-Miami-FL-33133/43863053_zpid/,2951 S Bayshore Dr #911,Miami,FL,33133,580000
+zpid_43863059,for sale,25.727268,-80.239914,680,1,1,https://www.zillow.com/homedetails/2951-S-Bayshore-Dr-512-Miami-FL-33133/43863059_zpid/,2951 S Bayshore Dr #512,Miami,FL,33133,525000
+zpid_43863885,for sale,25.712976,-80.259834,4061,4,5,https://www.zillow.com/homedetails/4121-Hardie-Ave-Miami-FL-33133/43863885_zpid/,4121 Hardie Ave,Miami,FL,33133,4975000
+zpid_43864196,for sale,25.71549,-80.25557,4125,5,5,https://www.zillow.com/homedetails/3883-Wood-Ave-Miami-FL-33133/43864196_zpid/,3883 Wood Ave,Miami,FL,33133,4650000
+zpid_43864295,for sale,25.713026,-80.25917,1644,3,2,https://www.zillow.com/homedetails/4095-Hardie-Ave-Miami-FL-33133/43864295_zpid/,4095 Hardie Ave,Miami,FL,33133,1975000
+zpid_43864376,for sale,25.710665,-80.25999,4328,5,6,https://www.zillow.com/homedetails/4131-Woodridge-Rd-Miami-FL-33133/43864376_zpid/,4131 Woodridge Rd,Miami,FL,33133,4950000
+zpid_43865458,for sale,25.754227,-80.21173,2127,5,3,https://www.zillow.com/homedetails/342-SW-29th-Rd-Miami-FL-33129/43865458_zpid/,342 SW 29th Rd,Miami,FL,33129,1240000
+zpid_43865916,for sale,,,682,2,1,https://www.zillow.com/homedetails/Miami-FL-33130/43865916_zpid/,(undisclosed Address),Miami,FL,33130,240000
+zpid_43866297,for sale,25.766426,-80.20886,667,2,2,https://www.zillow.com/homedetails/777-SW-9th-Ave-APT-516-Miami-FL-33130/43866297_zpid/,777 SW 9th Ave APT 516,Miami,FL,33130,325000
+zpid_43866841,for sale,25.75707,-80.20999,1136,3,1,https://www.zillow.com/homedetails/436-SW-26th-Rd-Miami-FL-33129/43866841_zpid/,436 SW 26th Rd,Miami,FL,33129,875000
+zpid_43867264,for sale,25.755892,-80.20814,640,1,1,https://www.zillow.com/homedetails/2530-SW-3rd-Ave-APT-103-Miami-FL-33129/43867264_zpid/,2530 SW 3rd Ave APT 103,Miami,FL,33129,325000
+zpid_43868550,for sale,25.757608,-80.190994,1030,2,2,https://www.zillow.com/homedetails/1450-Brickell-Bay-Dr-APT-1711-Miami-FL-33131/43868550_zpid/,1450 Brickell Bay Dr APT 1711,Miami,FL,33131,599000
+zpid_43868760,for sale,25.750542,-80.20112,1188,2,2,https://www.zillow.com/homedetails/2451-Brickell-Ave-APT-4E-Miami-FL-33129/43868760_zpid/,2451 Brickell Ave APT 4E,Miami,FL,33129,784900
+zpid_43870982,for sale,25.759508,-80.19095,650,1,1,https://www.zillow.com/homedetails/185-SE-14th-Ter-APT-1402-Miami-FL-33131/43870982_zpid/,185 SE 14th Ter APT 1402,Miami,FL,33131,370000
+zpid_43872327,for sale,25.767235,-80.18427,1229,2,2,https://www.zillow.com/homedetails/520-Brickell-Key-Dr-APT-A702-Miami-FL-33131/43872327_zpid/,520 Brickell Key Dr APT A702,Miami,FL,33131,660000
+zpid_43872716,for sale,25.767958,-80.18388,1040,2,2,https://www.zillow.com/homedetails/540-Brickell-Key-Dr-APT-607-Miami-FL-33131/43872716_zpid/,540 Brickell Key Dr APT 607,Miami,FL,33131,549000
+zpid_43873996,for sale,25.764765,-80.18901,2080,3,3,https://www.zillow.com/homedetails/905-Brickell-Bay-Dr-APT-1927-Miami-FL-33131/43873996_zpid/,905 Brickell Bay Dr APT 1927,Miami,FL,33131,750000
+zpid_43875215,for sale,25.864574,-80.12447,609,1,2,https://www.zillow.com/homedetails/7925-Carlyle-Ave-APT-402-Miami-Beach-FL-33141/43875215_zpid/,7925 Carlyle Ave APT 402,Miami Beach,FL,33141,185000
+zpid_43876888,for sale,25.864939,-80.13119,2011,4,4,https://www.zillow.com/homedetails/1323-Cleveland-Rd-Miami-Beach-FL-33141/43876888_zpid/,1323 Cleveland Rd,Miami Beach,FL,33141,975000
+zpid_43877710,for sale,25.852028,-80.136856,1913,3,3,https://www.zillow.com/homedetails/1611-71st-St-Miami-Beach-FL-33141/43877710_zpid/,1611 71st St,Miami Beach,FL,33141,997000
+zpid_43878150,for sale,25.85304,-80.134155,1883,3,3,https://www.zillow.com/homedetails/1410-71st-St-Miami-Beach-FL-33141/43878150_zpid/,1410 71st St,Miami Beach,FL,33141,1280000
+zpid_43882947,for sale,25.844627,-80.119934,1340,2,2,https://www.zillow.com/homedetails/6301-Collins-Ave-APT-2307-Miami-Beach-FL-33141/43882947_zpid/,6301 Collins Ave APT 2307,Miami Beach,FL,33141,873600
+zpid_43883858,for sale,,,1030,2,2,https://www.zillow.com/homedetails/Miami-Beach-FL-33140/43883858_zpid/,(undisclosed Address),Miami Beach,FL,33140,585000
+zpid_43896074,for sale,25.789858,-80.14722,400,1,1,https://www.zillow.com/homedetails/16-Island-Ave-APT-1F-Miami-Beach-FL-33139/43896074_zpid/,16 Island Ave APT 1F,Miami Beach,FL,33139,595000
+zpid_43897230,for sale,25.783712,-80.142975,662,1,1,https://www.zillow.com/homedetails/1250-West-Ave-APT-10N-Miami-Beach-FL-33139/43897230_zpid/,1250 West Ave APT 10N,Miami Beach,FL,33139,250000
+zpid_43897473,for sale,25.79,-80.148735,1154,2,2,https://www.zillow.com/homedetails/9-Island-Ave-APT-1902-Miami-Beach-FL-33139/43897473_zpid/,9 Island Ave APT 1902,Miami Beach,FL,33139,1000000
+zpid_43900446,for sale,25.784195,-80.141396,821,2,2,https://www.zillow.com/homedetails/1300-Alton-Rd-APT-6A-Miami-Beach-FL-33139/43900446_zpid/,1300 Alton Rd APT 6A,Miami Beach,FL,33139,449000
+zpid_43903319,for sale,25.782576,-80.1355,700,1,1,https://www.zillow.com/homedetails/1150-Euclid-Ave-APT-208-Miami-Beach-FL-33139/43903319_zpid/,1150 Euclid Ave APT 208,Miami Beach,FL,33139,249000
+zpid_43903817,for sale,25.781488,-80.14055,944,2,2,https://www.zillow.com/homedetails/1130-11th-St-APT-7A-Miami-Beach-FL-33139/43903817_zpid/,1130 11th St APT 7A,Miami Beach,FL,33139,400000
+zpid_43910342,for sale,25.757223,-80.2714,1486,3,2,https://www.zillow.com/homedetails/809-Milan-Ave-Coral-Gables-FL-33134/43910342_zpid/,809 Milan Ave,Coral Gables,FL,33134,1280000
+zpid_43911437,for sale,25.751451,-80.265144,1751,3,2,https://www.zillow.com/homedetails/504-Alhambra-Cir-Coral-Gables-FL-33134/43911437_zpid/,504 Alhambra Cir,Coral Gables,FL,33134,1650000
+zpid_43911626,for sale,25.752361,-80.26763,1149,2,2,https://www.zillow.com/homedetails/633-Alcazar-Ave-Coral-Gables-FL-33134/43911626_zpid/,633 Alcazar Ave,Coral Gables,FL,33134,975000
+zpid_43912312,for sale,,,650,2,1,https://www.zillow.com/homedetails/Coral-Gables-FL-33134/43912312_zpid/,(undisclosed Address),Coral Gables,FL,33134,299888
+zpid_43912537,for sale,25.74109,-80.263016,2787,3,4,https://www.zillow.com/homedetails/415-Sarto-Ave-Coral-Gables-FL-33134/43912537_zpid/,415 Sarto Ave,Coral Gables,FL,33134,2495000
+zpid_43913173,for sale,,,1659,3,2,https://www.zillow.com/homedetails/Coral-Gables-FL-33134/43913173_zpid/,(undisclosed Address),Coral Gables,FL,33134,1395000
+zpid_43913338,for sale,25.736847,-80.259544,1421,3,2,https://www.zillow.com/homedetails/230-Fluvia-Ave-Coral-Gables-FL-33134/43913338_zpid/,230 Fluvia Ave,Coral Gables,FL,33134,1150000
+zpid_43913438,for sale,25.746674,-80.2661,1662,3,2,https://www.zillow.com/homedetails/535-Almeria-Ave-Coral-Gables-FL-33134/43913438_zpid/,535 Almeria Ave,Coral Gables,FL,33134,1150000
+zpid_43913484,for sale,25.746353,-80.26726,2032,3,3,https://www.zillow.com/homedetails/630-Almeria-Ave-Coral-Gables-FL-33134/43913484_zpid/,630 Almeria Ave,Coral Gables,FL,33134,2345000
+zpid_43913634,for sale,25.74255,-80.26853,2114,3,2,https://www.zillow.com/homedetails/717-Santander-Ave-Coral-Gables-FL-33134/43913634_zpid/,717 Santander Ave,Coral Gables,FL,33134,2064000
+zpid_43914253,for sale,25.748413,-80.26757,932,1,2,https://www.zillow.com/homedetails/625-Biltmore-Way-PENTHOUSE-B-Coral-Gables-FL-33134/43914253_zpid/,625 Biltmore Way PENTHOUSE B,Coral Gables,FL,33134,798000
+zpid_43914261,for sale,25.749058,-80.26914,1736,2,2,https://www.zillow.com/homedetails/720-Coral-Way-APT-1F-Coral-Gables-FL-33134/43914261_zpid/,720 Coral Way APT 1F,Coral Gables,FL,33134,1149000
+zpid_43914287,for sale,25.749058,-80.26914,2082,4,4,https://www.zillow.com/homedetails/720-Coral-Way-APT-12A-Coral-Gables-FL-33134/43914287_zpid/,720 Coral Way APT 12A,Coral Gables,FL,33134,1150000
+zpid_43914746,for sale,25.74677,-80.27492,5044,6,7,https://www.zillow.com/homedetails/2616-Granada-Blvd-Coral-Gables-FL-33134/43914746_zpid/,2616 Granada Blvd,Coral Gables,FL,33134,6200000
+zpid_43914809,for sale,25.748648,-80.2802,4525,5,6,https://www.zillow.com/homedetails/1232-Coral-Way-Coral-Gables-FL-33134/43914809_zpid/,1232 Coral Way,Coral Gables,FL,33134,4500000
+zpid_43914955,for sale,25.745182,-80.28282,5005,6,7,https://www.zillow.com/homedetails/1321-Sevilla-Ave-Coral-Gables-FL-33134/43914955_zpid/,1321 Sevilla Ave,Coral Gables,FL,33134,6900000
+zpid_43915116,for sale,25.74394,-80.2789,6330,7,8,https://www.zillow.com/homedetails/2925-Columbus-Blvd-Coral-Gables-FL-33134/43915116_zpid/,2925 Columbus Blvd,Coral Gables,FL,33134,5425000
+zpid_43915384,for sale,25.737682,-80.271774,1971,4,3,https://www.zillow.com/homedetails/909-Roderigo-Ave-Coral-Gables-FL-33134/43915384_zpid/,909 Roderigo Ave,Coral Gables,FL,33134,1450000
+zpid_43915763,for sale,25.73067,-80.284874,3360,5,5,https://www.zillow.com/homedetails/1510-Sarria-Ave-Coral-Gables-FL-33146/43915763_zpid/,1510 Sarria Ave,Coral Gables,FL,33146,3800000
+zpid_43916041,for sale,25.726936,-80.27949,2666,3,3,https://www.zillow.com/homedetails/1337-Blue-Rd-Coral-Gables-FL-33146/43916041_zpid/,1337 Blue Rd,Coral Gables,FL,33146,1600000
+zpid_43916357,for sale,25.723818,-80.26808,2438,4,3,https://www.zillow.com/homedetails/5120-Orduna-Dr-Coral-Gables-FL-33146/43916357_zpid/,5120 Orduna Dr,Coral Gables,FL,33146,2149000
+zpid_43919106,for sale,25.706303,-80.25643,759,1,1,https://www.zillow.com/homedetails/100-Edgewater-Dr-APT-112-Coral-Gables-FL-33133/43919106_zpid/,100 Edgewater Dr APT 112,Coral Gables,FL,33133,399000
+zpid_43919412,for sale,25.706278,-80.25536,1470,2,2,https://www.zillow.com/homedetails/90-Edgewater-Dr-APT-114-Coral-Gables-FL-33133/43919412_zpid/,90 Edgewater Dr APT 114,Coral Gables,FL,33133,840000
+zpid_43919762,for sale,25.717539,-80.28394,1430,2,1,https://www.zillow.com/homedetails/1514-Consolata-Ave-Coral-Gables-FL-33146/43919762_zpid/,1514 Consolata Ave,Coral Gables,FL,33146,1570000
+zpid_43928347,for sale,25.888124,-80.32977,1440,3,2,https://www.zillow.com/homedetails/7211-W-24th-Ave-APT-2208-Hialeah-FL-33016/43928347_zpid/,7211 W 24th Ave APT 2208,Hialeah,FL,33016,489000
+zpid_43930643,for sale,25.890327,-80.349556,1605,3,2,https://www.zillow.com/homedetails/7466-W-32nd-Ln-Hialeah-FL-33018/43930643_zpid/,7466 W 32nd Ln,Hialeah,FL,33018,599999
+zpid_43933846,for sale,25.881367,-80.33739,980,3,2,https://www.zillow.com/homedetails/6480-W-27th-Ct-APT-14-54-Hialeah-FL-33016/43933846_zpid/,6480 W 27th Ct APT 14-54,Hialeah,FL,33016,300000
+zpid_43934020,for sale,25.87016,-80.32749,828,2,2,https://www.zillow.com/homedetails/2201-W-52nd-St-APT-102-Hialeah-FL-33016/43934020_zpid/,2201 W 52nd St APT 102,Hialeah,FL,33016,355000
+zpid_43938345,for sale,25.87815,-80.31076,1764,4,2,https://www.zillow.com/homedetails/1364-W-60th-Ter-Hialeah-FL-33012/43938345_zpid/,1364 W 60th Ter,Hialeah,FL,33012,549000
+zpid_43940651,for sale,25.870964,-80.320694,1006,2,2,https://www.zillow.com/homedetails/1900-W-54th-St-APT-403-Hialeah-FL-33012/43940651_zpid/,1900 W 54th St APT 403,Hialeah,FL,33012,264000
+zpid_43942324,for sale,25.881853,-80.30468,1790,4,2,https://www.zillow.com/homedetails/1084-W-65th-St-Hialeah-FL-33012/43942324_zpid/,1084 W 65th St,Hialeah,FL,33012,699000
+zpid_43944766,for sale,25.877373,-80.2843,1125,3,2,https://www.zillow.com/homedetails/45-W-60th-St-Hialeah-FL-33012/43944766_zpid/,45 W 60th St,Hialeah,FL,33012,534900
+zpid_43946930,for sale,25.872936,-80.2745,2308,4,2,https://www.zillow.com/homedetails/5535-E-4th-Ave-Hialeah-FL-33013/43946930_zpid/,5535 E 4th Ave,Hialeah,FL,33013,650000
+zpid_43947001,for sale,25.874254,-80.269554,1460,4,3,https://www.zillow.com/homedetails/670-E-57th-St-Hialeah-FL-33013/43947001_zpid/,670 E 57th St,Hialeah,FL,33013,499900
+zpid_43947459,for sale,25.876547,-80.27156,960,3,2,https://www.zillow.com/homedetails/571-E-59th-St-Hialeah-FL-33013/43947459_zpid/,571 E 59th St,Hialeah,FL,33013,575000
+zpid_43948719,for sale,25.864513,-80.300514,2751,3,2,https://www.zillow.com/homedetails/4660-W-8th-Pl-Hialeah-FL-33012/43948719_zpid/,4660 W 8th Pl,Hialeah,FL,33012,500000
+zpid_43949320,for sale,25.8576,-80.30564,2010,3,3,https://www.zillow.com/homedetails/1099-W-40th-St-25-Hialeah-FL-33012/43949320_zpid/,1099 W 40th St #25,Hialeah,FL,33012,325250
+zpid_43951058,for sale,25.862923,-80.31596,1144,2,2,https://www.zillow.com/homedetails/1635-W-44th-Pl-APT-214-Hialeah-FL-33012/43951058_zpid/,1635 W 44th Pl APT 214,Hialeah,FL,33012,269000
+zpid_43953097,for sale,25.850983,-80.30995,1938,4,3,https://www.zillow.com/homedetails/1371-W-32nd-St-Hialeah-FL-33012/43953097_zpid/,1371 W 32nd St,Hialeah,FL,33012,630000
+zpid_43953534,for sale,25.851925,-80.295425,2030,5,3,https://www.zillow.com/homedetails/649-W-33rd-St-Hialeah-FL-33012/43953534_zpid/,649 W 33rd St,Hialeah,FL,33012,800000
+zpid_43955462,for sale,25.864697,-80.26646,1050,3,2,https://www.zillow.com/homedetails/4625-E-8th-Ave-Hialeah-FL-33013/43955462_zpid/,4625 E 8th Ave,Hialeah,FL,33013,424900
+zpid_43956498,for sale,25.859114,-80.274155,1427,3,2,https://www.zillow.com/homedetails/415-E-40th-St-Hialeah-FL-33013/43956498_zpid/,415 E 40th St,Hialeah,FL,33013,499000
+zpid_43956910,for sale,25.861998,-80.27002,1440,3,1,https://www.zillow.com/homedetails/631-E-43rd-St-Hialeah-FL-33013/43956910_zpid/,631 E 43rd St,Hialeah,FL,33013,399000
+zpid_43957215,for sale,25.864174,-80.26314,1092,3,2,https://www.zillow.com/homedetails/4510-E-10th-Ave-1-Hialeah-FL-33013/43957215_zpid/,4510 E 10th Ave #1,Hialeah,FL,33013,428500
+zpid_43960877,for sale,,,1226,3,2,https://www.zillow.com/homedetails/Hialeah-FL-33013/43960877_zpid/,(undisclosed Address),Hialeah,FL,33013,395000
+zpid_43960987,for sale,25.849632,-80.26481,3558,6,3,https://www.zillow.com/homedetails/884-E-30th-St-Hialeah-FL-33013/43960987_zpid/,884 E 30th St,Hialeah,FL,33013,1200000
+zpid_43963009,for sale,25.835443,-80.263504,1850,4,2,https://www.zillow.com/homedetails/902-E-14th-Pl-Hialeah-FL-33010/43963009_zpid/,902 E 14th Pl,Hialeah,FL,33010,689000
+zpid_43964695,for sale,25.82589,-80.27404,837,2,1,https://www.zillow.com/homedetails/367-E-4th-St-Hialeah-FL-33010/43964695_zpid/,367 E 4th St,Hialeah,FL,33010,1000000
+zpid_43966548,for sale,25.835884,-80.29921,2656,4,3,https://www.zillow.com/homedetails/1230-N-Royal-Poinciana-Blvd-Miami-Springs-FL-33166/43966548_zpid/,1230 N Royal Poinciana Blvd,Miami Springs,FL,33166,1400000
+zpid_43967204,for sale,25.83256,-80.303535,2027,3,2,https://www.zillow.com/homedetails/1182-Partridge-Ave-Miami-Springs-FL-33166/43967204_zpid/,1182 Partridge Ave,Miami Springs,FL,33166,590000
+zpid_43967285,for sale,25.830744,-80.30123,2008,3,3,https://www.zillow.com/homedetails/1070-Ibis-Ave-Miami-Springs-FL-33166/43967285_zpid/,1070 Ibis Ave,Miami Springs,FL,33166,799900
+zpid_43972490,for sale,25.89391,-80.222626,1228,3,3,https://www.zillow.com/homedetails/1370-NW-131st-St-North-Miami-FL-33167/43972490_zpid/,1370 NW 131st St,North Miami,FL,33167,431000
+zpid_43979024,for sale,25.887796,-80.15983,1146,2,2,https://www.zillow.com/homedetails/11930-NE-19th-Dr-APT-7-North-Miami-FL-33181/43979024_zpid/,11930 NE 19th Dr APT 7,North Miami,FL,33181,275000
+zpid_43979520,for sale,25.897224,-80.17466,1807,4,2,https://www.zillow.com/homedetails/13205-NE-12th-Ave-North-Miami-FL-33161/43979520_zpid/,13205 NE 12th Ave,North Miami,FL,33161,535000
+zpid_43988553,for sale,25.93141,-80.15512,720,1,1,https://www.zillow.com/homedetails/16950-W-Dixie-Hwy-A424-North-Miami-Beach-FL-33160/43988553_zpid/,16950 W Dixie Hwy #A424,North Miami Beach,FL,33160,150000
+zpid_43995424,for sale,25.910498,-80.24832,2065,4,3,https://www.zillow.com/homedetails/1150-Kasim-St-Opa-Locka-FL-33054/43995424_zpid/,1150 Kasim St,Opa Locka,FL,33054,600000
+zpid_43996393,for sale,25.90576,-80.23743,891,3,1,https://www.zillow.com/homedetails/2280-Rutland-St-Opa-Locka-FL-33054/43996393_zpid/,2280 Rutland St,Opa Locka,FL,33054,349000
+zpid_43996767,for sale,25.904148,-80.238396,738,2,1,https://www.zillow.com/homedetails/14220-NW-23rd-Ct-Opa-Locka-FL-33054/43996767_zpid/,14220 NW 23rd Ct,Opa Locka,FL,33054,350000
+zpid_43997778,for sale,25.718964,-80.3021,1007,2,3,https://www.zillow.com/homedetails/5555-Ludlam-Rd-44-South-Miami-FL-33155/43997778_zpid/,5555 Ludlam Rd #44,South Miami,FL,33155,399000
+zpid_43997955,for sale,25.711906,-80.29173,1565,3,4,https://www.zillow.com/homedetails/6335-SW-60th-Ave-South-Miami-FL-33143/43997955_zpid/,6335 SW 60th Ave,South Miami,FL,33143,770000
+zpid_43998326,for sale,25.70758,-80.29657,1314,3,2,https://www.zillow.com/homedetails/6350-SW-68th-St-South-Miami-FL-33143/43998326_zpid/,6350 SW 68th St,South Miami,FL,33143,1249000
+zpid_44004252,for sale,25.463705,-80.44542,1183,2,2,https://www.zillow.com/homedetails/705-SE-22nd-Ln-Homestead-FL-33033/44004252_zpid/,705 SE 22nd Ln,Homestead,FL,33033,329000
+zpid_44006753,for sale,25.872215,-80.20143,1588,3,2,https://www.zillow.com/homedetails/173-NW-106th-St-Miami-Shores-FL-33150/44006753_zpid/,173 NW 106th St,Miami Shores,FL,33150,1100000
+zpid_44006985,for sale,25.871368,-80.198265,1834,3,2,https://www.zillow.com/homedetails/22-NW-105th-St-Miami-Shores-FL-33150/44006985_zpid/,22 NW 105th St,Miami Shores,FL,33150,975000
+zpid_44007282,for sale,25.872953,-80.193535,3739,6,4,https://www.zillow.com/homedetails/210-NE-107th-St-Miami-Shores-FL-33138/44007282_zpid/,210 NE 107th St,Miami Shores,FL,33138,1875000
+zpid_44007366,for sale,25.871943,-80.17382,1418,2,2,https://www.zillow.com/homedetails/1165-NE-105th-St-Miami-Shores-FL-33138/44007366_zpid/,1165 NE 105th St,Miami Shores,FL,33138,875000
+zpid_44007390,for sale,25.874115,-80.17654,2344,3,3,https://www.zillow.com/homedetails/1050-NE-107th-St-Miami-Shores-FL-33161/44007390_zpid/,1050 NE 107th St,Miami Shores,FL,33161,1900000
+zpid_44007455,for sale,25.870548,-80.175285,1946,3,3,https://www.zillow.com/homedetails/1080-NE-104th-St-Miami-Shores-FL-33138/44007455_zpid/,1080 NE 104th St,Miami Shores,FL,33138,1495000
+zpid_44008158,for sale,25.86488,-80.17171,1970,3,2,https://www.zillow.com/homedetails/1298-NE-97th-St-Miami-Shores-FL-33138/44008158_zpid/,1298 NE 97th St,Miami Shores,FL,33138,1550000
+zpid_44008623,for sale,25.86072,-80.19669,1604,3,2,https://www.zillow.com/homedetails/33-NE-93rd-St-Miami-Shores-FL-33138/44008623_zpid/,33 NE 93rd St,Miami Shores,FL,33138,1220000
+zpid_44009415,for sale,25.866096,-80.17785,2323,4,2,https://www.zillow.com/homedetails/955-NE-98th-St-Miami-Shores-FL-33138/44009415_zpid/,955 NE 98th St,Miami Shores,FL,33138,1750000
+zpid_44009569,for sale,25.869684,-80.186104,2462,5,5,https://www.zillow.com/homedetails/570-NE-103rd-St-Miami-Shores-FL-33138/44009569_zpid/,570 NE 103rd St,Miami Shores,FL,33138,2399000
+zpid_44011661,for sale,25.894337,-80.12317,993,1,2,https://www.zillow.com/homedetails/10185-Collins-Ave-APT-914-Bal-Harbour-FL-33154/44011661_zpid/,10185 Collins Ave APT 914,Bal Harbour,FL,33154,425000
+zpid_44013215,for sale,25.887964,-80.13241,928,2,2,https://www.zillow.com/homedetails/1155-97th-St-APT-303-Bay-Harbor-Islands-FL-33154/44013215_zpid/,1155 97th St APT 303,Bay Harbor Islands,FL,33154,379000
+zpid_44019838,for sale,25.43792,-80.49087,1065,3,2,https://www.zillow.com/homedetails/943-SW-9th-Ct-Florida-City-FL-33034/44019838_zpid/,943 SW 9th Ct,Florida City,FL,33034,340000
+zpid_44021088,for sale,25.855516,-80.19647,1541,4,3,https://www.zillow.com/homedetails/26-NE-88th-St-El-Portal-FL-33138/44021088_zpid/,26 NE 88th St,El Portal,FL,33138,1550000
+zpid_44021281,for sale,25.854603,-80.20391,2293,4,3,https://www.zillow.com/homedetails/360-NW-87th-St-El-Portal-FL-33150/44021281_zpid/,360 NW 87th St,El Portal,FL,33150,1400000
+zpid_44021291,for sale,25.85377,-80.20141,2000,4,2,https://www.zillow.com/homedetails/200-NW-86th-St-El-Portal-FL-33150/44021291_zpid/,200 NW 86th St,El Portal,FL,33150,1499000
+zpid_44021314,for sale,25.853647,-80.19686,1288,2,2,https://www.zillow.com/homedetails/1-NE-86th-St-El-Portal-FL-33138/44021314_zpid/,1 NE 86th St,El Portal,FL,33138,699000
+zpid_44021364,for sale,25.858158,-80.18886,3230,6,3,https://www.zillow.com/homedetails/9001-NE-4th-Ave-El-Portal-FL-33138/44021364_zpid/,9001 NE 4th Ave,El Portal,FL,33138,1850000
+zpid_44029255,for sale,25.844738,-80.14668,1034,2,2,https://www.zillow.com/homedetails/1880-S-Treasure-Dr-APT-1B-North-Bay-Village-FL-33141/44029255_zpid/,1880 S Treasure Dr APT 1B,North Bay Village,FL,33141,397000
+zpid_44038501,for sale,25.89149,-80.36607,3892,4,4,https://www.zillow.com/homedetails/10298-NW-130th-St-Hialeah-Gardens-FL-33018/44038501_zpid/,10298 NW 130th St,Hialeah Gardens,FL,33018,1100500
+zpid_44039976,for sale,25.877262,-80.34716,1170,3,2,https://www.zillow.com/homedetails/11411-NW-92nd-Ave-Hialeah-Gardens-FL-33018/44039976_zpid/,11411 NW 92nd Ave,Hialeah Gardens,FL,33018,499000
+zpid_44044335,for sale,25.964647,-80.141174,1380,3,2,https://www.zillow.com/homedetails/20341-NE-30th-Ave-PENTHOUSE-18-6-Aventura-FL-33180/44044335_zpid/,20341 NE 30th Ave PENTHOUSE 18-6,Aventura,FL,33180,399000
+zpid_44057132,for sale,25.944637,-80.144775,1232,2,2,https://www.zillow.com/homedetails/2750-NE-183rd-St-APT-2603-Aventura-FL-33160/44057132_zpid/,2750 NE 183rd St APT 2603,Aventura,FL,33160,385000
+zpid_44063319,for sale,25.956835,-80.258736,1761,3,2,https://www.zillow.com/homedetails/20120-NW-34th-Ave-Miami-Gardens-FL-33056/44063319_zpid/,20120 NW 34th Ave,Miami Gardens,FL,33056,465000
+zpid_44064738,for sale,25.961445,-80.22837,2487,4,3,https://www.zillow.com/homedetails/20300-NW-15th-Ave-Miami-Gardens-FL-33169/44064738_zpid/,20300 NW 15th Ave,Miami Gardens,FL,33169,655000
+zpid_44079019,for sale,25.943989,-80.34878,1756,3,2,https://www.zillow.com/homedetails/8994-NW-187th-St-Hialeah-FL-33018/44079019_zpid/,8994 NW 187th St,Hialeah,FL,33018,799999
+zpid_44079765,for sale,25.931122,-80.32878,1826,3,2,https://www.zillow.com/homedetails/7866-NW-174th-St-Hialeah-FL-33015/44079765_zpid/,7866 NW 174th St,Hialeah,FL,33015,655000
+zpid_44083626,for sale,25.93649,-80.300964,1837,3,2,https://www.zillow.com/homedetails/17955-NW-60th-Pl-Hialeah-FL-33015/44083626_zpid/,17955 NW 60th Pl,Hialeah,FL,33015,499000
+zpid_44087738,for sale,25.909267,-80.348526,2331,4,3,https://www.zillow.com/homedetails/14929-NW-92nd-Ave-Miami-Lakes-FL-33018/44087738_zpid/,14929 NW 92nd Ave,Miami Lakes,FL,33018,699999
+zpid_44090595,for sale,25.878181,-80.293205,2650,4,2,https://www.zillow.com/homedetails/11512-NW-58th-Ave-Hialeah-FL-33012/44090595_zpid/,11512 NW 58th Ave,Hialeah,FL,33012,944999
+zpid_44094392,for sale,25.947918,-80.240234,1901,3,2,https://www.zillow.com/homedetails/19020-NW-23rd-Ave-Miami-Gardens-FL-33056/44094392_zpid/,19020 NW 23rd Ave,Miami Gardens,FL,33056,499900
+zpid_44095953,for sale,25.9477,-80.25201,1440,3,2,https://www.zillow.com/homedetails/3010-NW-191st-St-Miami-Gardens-FL-33056/44095953_zpid/,3010 NW 191st St,Miami Gardens,FL,33056,450000
+zpid_44102414,for sale,25.931719,-80.286476,1771,6,3,https://www.zillow.com/homedetails/17350-NW-52nd-Pl-Opa-Locka-FL-33055/44102414_zpid/,17350 NW 52nd Pl,Opa Locka,FL,33055,659000
+zpid_44102817,for sale,25.926634,-80.2798,1342,4,2,https://www.zillow.com/homedetails/4857-NW-168th-Ter-Opa-Locka-FL-33055/44102817_zpid/,4857 NW 168th Ter,Opa Locka,FL,33055,550000
+zpid_44111890,for sale,25.919363,-80.232445,720,2,1,https://www.zillow.com/homedetails/15901-NW-19th-Ave-Miami-Gardens-FL-33054/44111890_zpid/,15901 NW 19th Ave,Miami Gardens,FL,33054,340000
+zpid_44111926,for sale,25.919725,-80.243324,1384,3,1,https://www.zillow.com/homedetails/15930-NW-26th-Ave-Miami-Gardens-FL-33054/44111926_zpid/,15930 NW 26th Ave,Miami Gardens,FL,33054,385000
+zpid_44112317,for sale,25.914438,-80.23007,3083,3,2,https://www.zillow.com/homedetails/15321-NW-18th-Ave-Miami-Gardens-FL-33054/44112317_zpid/,15321 NW 18th Ave,Miami Gardens,FL,33054,675000
+zpid_44114570,for sale,25.902847,-80.21886,1048,3,2,https://www.zillow.com/homedetails/1150-NW-140th-Ter-Miami-FL-33168/44114570_zpid/,1150 NW 140th Ter,Miami,FL,33168,445000
+zpid_44115639,for sale,25.910795,-80.224014,1536,3,2,https://www.zillow.com/homedetails/14701-NW-17th-Dr-Miami-FL-33167/44115639_zpid/,14701 NW 17th Dr,Miami,FL,33167,549900
+zpid_44115915,for sale,25.909365,-80.20423,1184,3,2,https://www.zillow.com/homedetails/230-NW-147th-St-Miami-FL-33168/44115915_zpid/,230 NW 147th St,Miami,FL,33168,570000
+zpid_44116916,for sale,25.89546,-80.22146,1548,4,3,https://www.zillow.com/homedetails/1300-NW-132nd-Ter-Miami-FL-33167/44116916_zpid/,1300 NW 132nd Ter,Miami,FL,33167,485000
+zpid_44117184,for sale,25.889055,-80.23443,1118,3,1,https://www.zillow.com/homedetails/12530-NW-21st-Pl-Miami-FL-33167/44117184_zpid/,12530 NW 21st Pl,Miami,FL,33167,321000
+zpid_44117499,for sale,25.892443,-80.23263,1750,3,2,https://www.zillow.com/homedetails/12920-NW-20th-Ave-Miami-FL-33167/44117499_zpid/,12920 NW 20th Ave,Miami,FL,33167,420000
+zpid_44118770,for sale,25.868624,-80.25271,1230,4,2,https://www.zillow.com/homedetails/10340-NW-32nd-Pl-Miami-FL-33147/44118770_zpid/,10340 NW 32nd Pl,Miami,FL,33147,475000
+zpid_44121265,for sale,25.877632,-80.22261,1440,3,2,https://www.zillow.com/homedetails/1401-NW-112th-Ter-Miami-FL-33167/44121265_zpid/,1401 NW 112th Ter,Miami,FL,33167,499999
+zpid_44121543,for sale,25.877825,-80.22596,806,2,1,https://www.zillow.com/homedetails/1640-NW-113th-Ter-Miami-FL-33167/44121543_zpid/,1640 NW 113th Ter,Miami,FL,33167,315000
+zpid_44122454,for sale,25.880928,-80.20205,1088,3,2,https://www.zillow.com/homedetails/11535-NW-2nd-Ave-Miami-FL-33168/44122454_zpid/,11535 NW 2nd Ave,Miami,FL,33168,529000
+zpid_44128828,for sale,25.94973,-80.19704,1040,2,2,https://www.zillow.com/homedetails/19051-NE-2nd-Ave-APT-1501-Miami-FL-33179/44128828_zpid/,19051 NE 2nd Ave APT 1501,Miami,FL,33179,119000
+zpid_44134051,for sale,25.914625,-80.18659,1620,3,3,https://www.zillow.com/homedetails/15141-NE-6th-Ave-4-Miami-FL-33162/44134051_zpid/,15141 NE 6th Ave #4,Miami,FL,33162,250000
+zpid_44135912,for sale,25.880678,-80.191505,2654,3,3,https://www.zillow.com/homedetails/301-NE-115th-St-Miami-FL-33161/44135912_zpid/,301 NE 115th St,Miami,FL,33161,1580000
+zpid_44136097,for sale,25.8764,-80.190475,2075,4,3,https://www.zillow.com/homedetails/347-NE-110th-St-Miami-FL-33161/44136097_zpid/,347 NE 110th St,Miami,FL,33161,970000
+zpid_44136121,for sale,25.878298,-80.19067,1284,3,2,https://www.zillow.com/homedetails/345-NE-112th-St-Miami-FL-33161/44136121_zpid/,345 NE 112th St,Miami,FL,33161,850000
+zpid_44136333,for sale,25.874975,-80.19189,1987,3,3,https://www.zillow.com/homedetails/283-NE-108th-St-Miami-FL-33161/44136333_zpid/,283 NE 108th St,Miami,FL,33161,924000
+zpid_44136400,for sale,25.874466,-80.19191,1437,3,2,https://www.zillow.com/homedetails/274-NE-108th-St-Miami-FL-33161/44136400_zpid/,274 NE 108th St,Miami,FL,33161,779999
+zpid_44137462,for sale,25.87996,-80.1625,1358,2,2,https://www.zillow.com/homedetails/11111-Biscayne-Blvd-15D-Miami-FL-33181/44137462_zpid/,11111 Biscayne Blvd #15D,Miami,FL,33181,365000
+zpid_44137994,for sale,25.873766,-80.16835,1544,2,2,https://www.zillow.com/homedetails/1000-Quayside-Ter-APT-1702-Miami-FL-33138/44137994_zpid/,1000 Quayside Ter APT 1702,Miami,FL,33138,440000
+zpid_44138000,for sale,25.873766,-80.16835,1312,2,2,https://www.zillow.com/homedetails/1000-Quayside-Ter-APT-403-Miami-FL-33138/44138000_zpid/,1000 Quayside Ter APT 403,Miami,FL,33138,410000
+zpid_44138267,for sale,25.872871,-80.16972,1520,2,2,https://www.zillow.com/homedetails/2000-Towerside-Ter-PENTHOUSE-5-Miami-FL-33138/44138267_zpid/,2000 Towerside Ter PENTHOUSE 5,Miami,FL,33138,619000
+zpid_44138288,for sale,25.872871,-80.16972,1535,2,2,https://www.zillow.com/homedetails/2000-Towerside-Ter-APT-407-Miami-FL-33138/44138288_zpid/,2000 Towerside Ter APT 407,Miami,FL,33138,559000
+zpid_44146358,for sale,25.779215,-80.33791,1026,2,2,https://www.zillow.com/homedetails/816-NW-87th-Ave-APT-403-Miami-FL-33172/44146358_zpid/,816 NW 87th Ave APT 403,Miami,FL,33172,285000
+zpid_44151200,for sale,25.857992,-80.228935,2634,6,5,https://www.zillow.com/homedetails/1850-NW-92nd-St-Miami-FL-33147/44151200_zpid/,1850 NW 92nd St,Miami,FL,33147,850000
+zpid_44151864,for sale,25.86132,-80.24001,1351,2,1,https://www.zillow.com/homedetails/9521-NW-25th-Ave-Miami-FL-33147/44151864_zpid/,9521 NW 25th Ave,Miami,FL,33147,509000
+zpid_44152269,for sale,25.855171,-80.23539,1105,4,2,https://www.zillow.com/homedetails/8832-NW-22nd-Pl-Miami-FL-33147/44152269_zpid/,8832 NW 22nd Pl,Miami,FL,33147,379900
+zpid_44152511,for sale,25.863417,-80.24945,572,8,5,https://www.zillow.com/homedetails/3140-NW-98th-St-Miami-FL-33147/44152511_zpid/,3140 NW 98th St,Miami,FL,33147,395000
+zpid_44152934,for sale,25.861732,-80.244514,1554,3,2,https://www.zillow.com/homedetails/2900-NW-96th-St-Miami-FL-33147/44152934_zpid/,2900 NW 96th St,Miami,FL,33147,350000
+zpid_44154114,for sale,25.858925,-80.25273,925,2,1,https://www.zillow.com/homedetails/9360-NW-33rd-Ave-Miami-FL-33147/44154114_zpid/,9360 NW 33rd Ave,Miami,FL,33147,340000
+zpid_44154684,for sale,25.854868,-80.25006,1486,2,2,https://www.zillow.com/homedetails/3191-NW-88th-St-Miami-FL-33147/44154684_zpid/,3191 NW 88th St,Miami,FL,33147,389000
+zpid_44155606,for sale,25.851488,-80.23044,1222,4,3,https://www.zillow.com/homedetails/1935-NW-84th-St-Miami-FL-33147/44155606_zpid/,1935 NW 84th St,Miami,FL,33147,555000
+zpid_44156769,for sale,25.852535,-80.21101,875,3,1,https://www.zillow.com/homedetails/800-NW-84th-Ter-Miami-FL-33150/44156769_zpid/,800 NW 84th Ter,Miami,FL,33150,439000
+zpid_44157810,for sale,25.842054,-80.21262,1198,3,2,https://www.zillow.com/homedetails/925-NW-73rd-St-Miami-FL-33150/44157810_zpid/,925 NW 73rd St,Miami,FL,33150,424000
+zpid_44158525,for sale,25.837381,-80.22555,1352,3,2,https://www.zillow.com/homedetails/1717-NW-69th-St-Miami-FL-33147/44158525_zpid/,1717 NW 69th St,Miami,FL,33147,375000
+zpid_44159122,for sale,25.836351,-80.22999,816,3,1,https://www.zillow.com/homedetails/6845-NW-20th-Ave-Miami-FL-33147/44159122_zpid/,6845 NW 20th Ave,Miami,FL,33147,390000
+zpid_44159206,for sale,25.83484,-80.22916,701,2,1,https://www.zillow.com/homedetails/1901-NW-66th-St-Miami-FL-33147/44159206_zpid/,1901 NW 66th St,Miami,FL,33147,330000
+zpid_44160627,for sale,25.828722,-80.24276,2084,5,3,https://www.zillow.com/homedetails/2785-NW-59th-St-Miami-FL-33142/44160627_zpid/,2785 NW 59th St,Miami,FL,33142,695000
+zpid_44163429,for sale,25.858953,-80.17851,2183,3,3,https://www.zillow.com/homedetails/917-NE-90th-St-Miami-FL-33138/44163429_zpid/,917 NE 90th St,Miami,FL,33138,1500000
+zpid_44183153,for sale,25.754742,-80.322945,1552,4,2,https://www.zillow.com/homedetails/7855-SW-17th-St-Miami-FL-33155/44183153_zpid/,7855 SW 17th St,Miami,FL,33155,709000
+zpid_44184265,for sale,25.753342,-80.31251,1579,4,2,https://www.zillow.com/homedetails/7240-SW-Eighteen-Street-Rd-Miami-FL-33155/44184265_zpid/,7240 SW Eighteen Street Rd,Miami,FL,33155,509999
+zpid_44184709,for sale,25.757524,-80.31508,2379,3,2,https://www.zillow.com/homedetails/7360-SW-13th-Ter-Miami-FL-33144/44184709_zpid/,7360 SW 13th Ter,Miami,FL,33144,800000
+zpid_44186429,for sale,25.748814,-80.300415,2331,2,1,https://www.zillow.com/homedetails/6438-SW-23rd-St-Miami-FL-33155/44186429_zpid/,6438 SW 23rd St,Miami,FL,33155,469000
+zpid_44186625,for sale,25.751938,-80.29488,1328,2,2,https://www.zillow.com/homedetails/6110-SW-20th-St-Miami-FL-33155/44186625_zpid/,6110 SW 20th St,Miami,FL,33155,625000
+zpid_44187128,for sale,25.745874,-80.302574,1053,3,1,https://www.zillow.com/homedetails/6550-SW-26th-St-Miami-FL-33155/44187128_zpid/,6550 SW 26th St,Miami,FL,33155,639000
+zpid_44187235,for sale,25.744572,-80.30039,1228,3,1,https://www.zillow.com/homedetails/6449-SW-28th-St-Miami-FL-33155/44187235_zpid/,6449 SW 28th St,Miami,FL,33155,669999
+zpid_44188011,for sale,25.742321,-80.287224,1320,3,2,https://www.zillow.com/homedetails/3040-SW-57th-Ave-Miami-FL-33155/44188011_zpid/,3040 SW 57th Ave,Miami,FL,33155,1195000
+zpid_44189493,for sale,25.740288,-80.30396,2136,5,3,https://www.zillow.com/homedetails/6735-SW-32nd-Ter-Miami-FL-33155/44189493_zpid/,6735 SW 32nd Ter,Miami,FL,33155,829000
+zpid_44189777,for sale,25.741728,-80.30549,1177,3,1,https://www.zillow.com/homedetails/6811-SW-31st-St-Miami-FL-33155/44189777_zpid/,6811 SW 31st St,Miami,FL,33155,624900
+zpid_44189843,for sale,25.736687,-80.3129,1700,3,2,https://www.zillow.com/homedetails/3615-S-Lake-Dr-Miami-FL-33155/44189843_zpid/,3615 S Lake Dr,Miami,FL,33155,698000
+zpid_44190293,for sale,25.737051,-80.31819,1184,3,1,https://www.zillow.com/homedetails/7540-SW-35th-St-Miami-FL-33155/44190293_zpid/,7540 SW 35th St,Miami,FL,33155,539000
+zpid_44190379,for sale,25.741224,-80.317825,1053,3,1,https://www.zillow.com/homedetails/7545-SW-31st-St-Miami-FL-33155/44190379_zpid/,7545 SW 31st St,Miami,FL,33155,600000
+zpid_44190693,for sale,25.741264,-80.31917,960,2,1,https://www.zillow.com/homedetails/3050-SW-76th-Ave-Miami-FL-33155/44190693_zpid/,3050 SW 76th Ave,Miami,FL,33155,485000
+zpid_44191503,for sale,25.735298,-80.32931,1837,4,3,https://www.zillow.com/homedetails/8261-SW-38th-St-Miami-FL-33155/44191503_zpid/,8261 SW 38th St,Miami,FL,33155,985000
+zpid_44192258,for sale,25.742619,-80.334984,1750,3,3,https://www.zillow.com/homedetails/8571-SW-29th-St-Miami-FL-33155/44192258_zpid/,8571 SW 29th St,Miami,FL,33155,725000
+zpid_44194234,for sale,25.741892,-80.34233,2440,6,4,https://www.zillow.com/homedetails/9021-SW-30th-Ter-Miami-FL-33165/44194234_zpid/,9021 SW 30th Ter,Miami,FL,33165,750000
+zpid_44194294,for sale,25.746613,-80.347404,2416,4,4,https://www.zillow.com/homedetails/9371-SW-25th-St-Miami-FL-33165/44194294_zpid/,9371 SW 25th St,Miami,FL,33165,899000
+zpid_44196243,for sale,25.7447,-80.35457,2327,3,2,https://www.zillow.com/homedetails/9844-SW-26th-Ter-Miami-FL-33165/44196243_zpid/,9844 SW 26th Ter,Miami,FL,33165,685000
+zpid_44196756,for sale,25.743132,-80.36089,2220,3,2,https://www.zillow.com/homedetails/10250-SW-28th-St-Miami-FL-33165/44196756_zpid/,10250 SW 28th St,Miami,FL,33165,399000
+zpid_44199070,for sale,25.724508,-80.381805,1364,4,3,https://www.zillow.com/homedetails/4525-SW-116th-Ave-Miami-FL-33165/44199070_zpid/,4525 SW 116th Ave,Miami,FL,33165,650000
+zpid_44204451,for sale,25.725101,-80.35089,1750,5,4,https://www.zillow.com/homedetails/9625-SW-46th-Ter-Miami-FL-33165/44204451_zpid/,9625 SW 46th Ter,Miami,FL,33165,699000
+zpid_44205730,for sale,25.718987,-80.33453,4154,5,5,https://www.zillow.com/homedetails/5321-SW-87th-Ave-Miami-FL-33165/44205730_zpid/,5321 SW 87th Ave,Miami,FL,33165,2499003
+zpid_44208177,for sale,25.726719,-80.29418,1548,4,2,https://www.zillow.com/homedetails/6140-SW-47th-St-Miami-FL-33155/44208177_zpid/,6140 SW 47th St,Miami,FL,33155,829000
+zpid_44209311,for sale,25.703829,-80.30758,1823,3,2,https://www.zillow.com/homedetails/7055-Sunset-Dr-Miami-FL-33143/44209311_zpid/,7055 Sunset Dr,Miami,FL,33143,1260000
+zpid_44209614,for sale,25.715443,-80.33423,3089,5,4,https://www.zillow.com/homedetails/8625-SW-58th-St-Miami-FL-33143/44209614_zpid/,8625 SW 58th St,Miami,FL,33143,2150000
+zpid_44212712,for sale,25.708563,-80.37248,1226,3,2,https://www.zillow.com/homedetails/10990-SW-63rd-Ter-Miami-FL-33173/44212712_zpid/,10990 SW 63rd Ter,Miami,FL,33173,685000
+zpid_44212939,for sale,25.711475,-80.37063,1200,3,2,https://www.zillow.com/homedetails/6011-SW-109th-Ave-Miami-FL-33173/44212939_zpid/,6011 SW 109th Ave,Miami,FL,33173,680000
+zpid_44213077,for sale,25.70999,-80.37104,2195,4,3,https://www.zillow.com/homedetails/6150-SW-109th-Ave-Miami-FL-33173/44213077_zpid/,6150 SW 109th Ave,Miami,FL,33173,895000
+zpid_44214757,for sale,25.702059,-80.37973,1470,3,2,https://www.zillow.com/homedetails/7019-SW-115th-Pl-D31-Miami-FL-33173/44214757_zpid/,7019 SW 115th Pl #D31,Miami,FL,33173,430000
+zpid_44214827,for sale,,,1540,3,2,https://www.zillow.com/homedetails/Miami-FL-33173/44214827_zpid/,(undisclosed Address),Miami,FL,33173,340000
+zpid_44216691,for sale,25.699427,-80.37517,1868,3,3,https://www.zillow.com/homedetails/11319-SW-73rd-Ln-Miami-FL-33173/44216691_zpid/,11319 SW 73rd Ln,Miami,FL,33173,679000
+zpid_44217861,for sale,25.693682,-80.36042,1508,4,2,https://www.zillow.com/homedetails/8040-SW-103rd-Ave-Miami-FL-33173/44217861_zpid/,8040 SW 103rd Ave,Miami,FL,33173,415000
+zpid_44222368,for sale,25.691149,-80.31942,715,1,1,https://www.zillow.com/homedetails/7707-SW-86th-St-B-202-Miami-FL-33143/44222368_zpid/,7707 SW 86th St #B-202,Miami,FL,33143,260000
+zpid_44223855,for sale,25.69375,-80.31884,804,2,1,https://www.zillow.com/homedetails/7840-Camino-Real-P-404-Miami-FL-33143/44223855_zpid/,7840 Camino Real #P-404,Miami,FL,33143,295000
+zpid_44224037,for sale,,,3329,5,4,https://www.zillow.com/homedetails/Miami-FL-33143/44224037_zpid/,(undisclosed Address),Miami,FL,33143,1620000
+zpid_44224061,for sale,25.696285,-80.315704,5301,5,5,https://www.zillow.com/homedetails/7501-SW-80th-St-Miami-FL-33143/44224061_zpid/,7501 SW 80th St,Miami,FL,33143,5500000
+zpid_44224271,for sale,25.6929,-80.307884,1263,2,2,https://www.zillow.com/homedetails/8315-SW-72nd-Ave-APT-201B-Miami-FL-33143/44224271_zpid/,8315 SW 72nd Ave APT 201B,Miami,FL,33143,354000
+zpid_44226122,for sale,25.702381,-80.28377,4526,4,5,https://www.zillow.com/homedetails/5500-SW-74th-St-Miami-FL-33143/44226122_zpid/,5500 SW 74th St,Miami,FL,33143,5675000
+zpid_44227222,for sale,25.762693,-80.14839,1950,3,4,https://www.zillow.com/homedetails/5245-Fisher-Island-Dr-5245-Miami-Beach-FL-33109/44227222_zpid/,5245 Fisher Island Dr #5245,Miami Beach,FL,33109,4450000
+zpid_44240501,for sale,25.740673,-80.41062,1195,2,2,https://www.zillow.com/homedetails/13301-SW-29th-St-Miami-FL-33175/44240501_zpid/,13301 SW 29th St,Miami,FL,33175,550000
+zpid_44240622,for sale,25.73095,-80.41103,2046,4,3,https://www.zillow.com/homedetails/13360-SW-40th-St-Miami-FL-33175/44240622_zpid/,13360 SW 40th St,Miami,FL,33175,1195000
+zpid_44248231,for sale,25.718878,-80.4294,1397,3,2,https://www.zillow.com/homedetails/4981-SW-146th-Ave-Miami-FL-33175/44248231_zpid/,4981 SW 146th Ave,Miami,FL,33175,580000
+zpid_44251965,for sale,25.72768,-80.39574,2004,4,2,https://www.zillow.com/homedetails/12400-SW-43rd-St-Miami-FL-33175/44251965_zpid/,12400 SW 43rd St,Miami,FL,33175,1979000
+zpid_44252032,for sale,25.724758,-80.39313,1144,2,1,https://www.zillow.com/homedetails/12271-SW-46th-St-Miami-FL-33175/44252032_zpid/,12271 SW 46th St,Miami,FL,33175,2000000
+zpid_44252329,for sale,25.704967,-80.407776,1681,4,4,https://www.zillow.com/homedetails/13231-SW-68th-St-Miami-FL-33183/44252329_zpid/,13231 SW 68th St,Miami,FL,33183,810000
+zpid_44255764,for sale,25.71078,-80.41165,1340,3,3,https://www.zillow.com/homedetails/13475-SW-62nd-St-APT-5-Miami-FL-33183/44255764_zpid/,13475 SW 62nd St APT 5,Miami,FL,33183,410000
+zpid_44256051,for sale,25.700901,-80.4025,810,2,2,https://www.zillow.com/homedetails/7111-SW-129th-Ave-APT-2-Miami-FL-33183/44256051_zpid/,7111 SW 129th Ave APT 2,Miami,FL,33183,264000
+zpid_44269369,for sale,25.69329,-80.41462,2280,3,2,https://www.zillow.com/homedetails/13661-SW-79th-St-Miami-FL-33183/44269369_zpid/,13661 SW 79th St,Miami,FL,33183,725000
+zpid_44272475,for sale,25.699188,-80.40925,1650,5,3,https://www.zillow.com/homedetails/7305-SW-133rd-Ct-Miami-FL-33183/44272475_zpid/,7305 SW 133rd Ct,Miami,FL,33183,750000
+zpid_44274280,for sale,25.697544,-80.39608,2675,4,3,https://www.zillow.com/homedetails/12470-SW-75th-St-Miami-FL-33183/44274280_zpid/,12470 SW 75th St,Miami,FL,33183,1600000
+zpid_44279633,for sale,25.660952,-80.36825,2310,4,3,https://www.zillow.com/homedetails/10720-SW-116th-St-Miami-FL-33176/44279633_zpid/,10720 SW 116th St,Miami,FL,33176,929000
+zpid_44288029,for sale,25.630854,-80.36943,1144,4,2,https://www.zillow.com/homedetails/14860-Pierce-St-Miami-FL-33176/44288029_zpid/,14860 Pierce St,Miami,FL,33176,520000
+zpid_44288102,for sale,25.633495,-80.37142,936,3,1,https://www.zillow.com/homedetails/14601-Polk-St-Miami-FL-33176/44288102_zpid/,14601 Polk St,Miami,FL,33176,435000
+zpid_44321888,for sale,25.669231,-80.41396,1726,3,2,https://www.zillow.com/homedetails/13463-SW-108th-Street-Cir-N-Miami-FL-33186/44321888_zpid/,13463 SW 108th Street Cir N,Miami,FL,33186,619900
+zpid_44332674,for sale,25.63747,-80.39413,2515,4,3,https://www.zillow.com/homedetails/12374-SW-140th-St-Miami-FL-33186/44332674_zpid/,12374 SW 140th St,Miami,FL,33186,715000
+zpid_44349581,for sale,25.582245,-80.37606,800,2,2,https://www.zillow.com/homedetails/19781-SW-114th-Ave-APT-343-9-Miami-FL-33157/44349581_zpid/,19781 SW 114th Ave APT 343-9,Miami,FL,33157,185000
+zpid_44354009,for sale,25.578405,-80.32972,2620,4,3,https://www.zillow.com/homedetails/20272-SW-85th-Ave-Cutler-Bay-FL-33189/44354009_zpid/,20272 SW 85th Ave,Cutler Bay,FL,33189,580000
+zpid_44356538,for sale,25.55987,-80.36694,1881,3,2,https://www.zillow.com/homedetails/22275-SW-108th-Ct-Miami-FL-33170/44356538_zpid/,22275 SW 108th Ct,Miami,FL,33170,360000
+zpid_44357656,for sale,25.569082,-80.497475,2468,3,2,https://www.zillow.com/homedetails/18845-SW-212th-St-Miami-FL-33187/44357656_zpid/,18845 SW 212th St,Miami,FL,33187,899900
+zpid_44374902,for sale,25.496702,-80.43553,1468,4,2,https://www.zillow.com/homedetails/15035-Garfield-Dr-Homestead-FL-33033/44374902_zpid/,15035 Garfield Dr,Homestead,FL,33033,469900
+zpid_44378113,for sale,25.489613,-80.4292,1564,3,2,https://www.zillow.com/homedetails/29831-SW-147th-Ct-Homestead-FL-33033/44378113_zpid/,29831 SW 147th Ct,Homestead,FL,33033,519000
+zpid_46664855,for sale,26.345343,-80.191246,1050,2,2,https://www.zillow.com/homedetails/9354-SW-3rd-St-APT-610-Boca-Raton-FL-33428/46664855_zpid/,9354 SW 3rd St APT 610,Boca Raton,FL,33428,257900
+zpid_46671068,for sale,26.3306,-80.13501,1860,3,3,https://www.zillow.com/homedetails/5908-Catesby-St-Boca-Raton-FL-33433/46671068_zpid/,5908 Catesby St,Boca Raton,FL,33433,650000
+zpid_51617607,for sale,26.098513,-80.29276,2364,4,3,https://www.zillow.com/homedetails/1717-SW-108th-Way-Fort-Lauderdale-FL-33324/51617607_zpid/,1717 SW 108th Way,Fort Lauderdale,FL,33324,789900
+zpid_51618933,for sale,25.983936,-80.39621,1990,4,3,https://www.zillow.com/homedetails/18776-SW-27th-Ct-Miramar-FL-33029/51618933_zpid/,18776 SW 27th Ct,Miramar,FL,33029,535000
+zpid_51619910,for sale,26.002655,-80.32924,1032,2,2,https://www.zillow.com/homedetails/700-SW-137th-Ave-APT-305H-Pembroke-Pines-FL-33027/51619910_zpid/,700 SW 137th Ave APT 305H,Pembroke Pines,FL,33027,264999
+zpid_54187638,for sale,25.942755,-81.71607,1559,3,2,https://www.zillow.com/homedetails/224-Bermuda-Rd-Marco-Island-FL-34145/54187638_zpid/,224 Bermuda Rd,Marco Island,FL,34145,950000
+zpid_54195283,for sale,26.294258,-81.75368,3248,4,5,https://www.zillow.com/homedetails/6017-Ashford-Ln-Naples-FL-34110/54195283_zpid/,6017 Ashford Ln,Naples,FL,34110,1100000
+zpid_54202371,for sale,25.939901,-81.7334,406,Studio,1,https://www.zillow.com/homedetails/130-N-Collier-Blvd-APT-G-3-Marco-Island-FL-34145/54202371_zpid/,130 N Collier Blvd APT G-3,Marco Island,FL,34145,239000
+zpid_54597986,for sale,26.09781,-80.292435,1876,3,2,https://www.zillow.com/homedetails/1757-SW-108th-Way-Davie-FL-33324/54597986_zpid/,1757 SW 108th Way,Davie,FL,33324,611000
+zpid_54598080,for sale,26.080462,-80.28485,3528,4,4,https://www.zillow.com/homedetails/3044-Lake-Point-Pl-Davie-FL-33328/54598080_zpid/,3044 Lake Point Pl,Davie,FL,33328,1549000
+zpid_54935440,for sale,26.333067,-81.78913,949,2,2,https://www.zillow.com/homedetails/9871-Alabama-St-APT-5-Bonita-Springs-FL-34135/54935440_zpid/,9871 Alabama St APT 5,Bonita Springs,FL,34135,299000
+zpid_55796993,for sale,25.53925,-80.37318,1553,4,2,https://www.zillow.com/homedetails/11245-SW-246th-St-Homestead-FL-33032/55796993_zpid/,11245 SW 246th St,Homestead,FL,33032,485000
+zpid_58442400,for sale,26.143663,-80.11326,2060,3,3,https://www.zillow.com/homedetails/1306-NE-26th-Ave-Fort-Lauderdale-FL-33304/58442400_zpid/,1306 NE 26th Ave,Fort Lauderdale,FL,33304,899000
+zpid_58443504,for sale,26.080418,-80.28361,4779,6,5,https://www.zillow.com/homedetails/10123-S-Lake-Vista-Cir-Davie-FL-33328/58443504_zpid/,10123 S Lake Vista Cir,Davie,FL,33328,1725000
+zpid_58444520,for sale,26.043926,-80.248314,1886,3,3,https://www.zillow.com/homedetails/7963-S-Silverado-Cir-Hollywood-FL-33024/58444520_zpid/,7963 S Silverado Cir,Hollywood,FL,33024,559000
+zpid_58444636,for sale,26.017506,-80.27939,1584,3,3,https://www.zillow.com/homedetails/1113-NW-100th-Ave-Pembroke-Pines-FL-33024/58444636_zpid/,1113 NW 100th Ave,Pembroke Pines,FL,33024,455000
+zpid_58450817,for sale,25.782309,-80.15233,1180,3,3,https://www.zillow.com/homedetails/737-Jefferson-Ave-APT-201-Miami-Beach-FL-33139/58450817_zpid/,737 Jefferson Ave APT 201,Miami Beach,FL,33139,595000
+zpid_58454219,for sale,25.744606,-80.37468,2783,5,3,https://www.zillow.com/homedetails/2602-SW-110th-Ct-Miami-FL-33165/58454219_zpid/,2602 SW 110th Ct,Miami,FL,33165,1300000
+zpid_58457132,for sale,25.92634,-80.34087,5275,6,8,https://www.zillow.com/homedetails/8618-NW-168th-Ter-Miami-Lakes-FL-33016/58457132_zpid/,8618 NW 168th Ter,Miami Lakes,FL,33016,1799000
+zpid_58457657,for sale,25.920713,-80.348595,2333,4,2,https://www.zillow.com/homedetails/9120-NW-162nd-Ter-Miami-Lakes-FL-33018/58457657_zpid/,9120 NW 162nd Ter,Miami Lakes,FL,33018,627000
+zpid_60793126,for sale,25.729641,-80.23794,1581,2,3,https://www.zillow.com/homedetails/3400-SW-27th-Ave-APT-1904-Miami-FL-33133/60793126_zpid/,3400 SW 27th Ave APT 1904,Miami,FL,33133,1950000
+zpid_60793452,for sale,25.76216,-80.18911,1140,2,2,https://www.zillow.com/homedetails/1155-Brickell-Bay-Dr-APT-2203-Miami-FL-33131/60793452_zpid/,1155 Brickell Bay Dr APT 2203,Miami,FL,33131,800000
+zpid_60794745,for sale,25.895803,-80.298035,770,2,1,https://www.zillow.com/homedetails/666-W-81st-St-APT-419-Hialeah-FL-33014/60794745_zpid/,666 W 81st St APT 419,Hialeah,FL,33014,249900
+zpid_60965504,for sale,26.30048,-80.26872,1954,4,3,https://www.zillow.com/homedetails/10526-NW-57th-St-Coral-Springs-FL-33076/60965504_zpid/,10526 NW 57th St,Coral Springs,FL,33076,500000
+zpid_61086348,for sale,26.24122,-80.29594,2243,4,3,https://www.zillow.com/homedetails/861-NW-127th-Ave-Coral-Springs-FL-33071/61086348_zpid/,861 NW 127th Ave,Coral Springs,FL,33071,549000
+zpid_62694306,for sale,25.730492,-80.23797,2028,2,3,https://www.zillow.com/homedetails/3350-SW-27th-Ave-APT-1006-Miami-FL-33133/62694306_zpid/,3350 SW 27th Ave APT 1006,Miami,FL,33133,1599999
+zpid_62829194,for sale,26.16007,-80.137215,595,1,1,https://www.zillow.com/homedetails/2607-NE-8th-Ave-APT-37-Fort-Lauderdale-FL-33334/62829194_zpid/,2607 NE 8th Ave APT 37,Fort Lauderdale,FL,33334,214900
+zpid_62926173,for sale,25.750626,-80.221146,1030,2,2,https://www.zillow.com/homedetails/1650-Coral-Way-APT-401-Miami-FL-33145/62926173_zpid/,1650 Coral Way APT 401,Miami,FL,33145,385000
+zpid_62926574,for sale,25.768562,-80.18645,1493,3,3,https://www.zillow.com/homedetails/801-Brickell-Key-Blvd-APT-3004-Miami-FL-33131/62926574_zpid/,801 Brickell Key Blvd APT 3004,Miami,FL,33131,1275000
+zpid_62930007,for sale,25.76674,-80.34036,1364,3,3,https://www.zillow.com/homedetails/8930-W-Flagler-St-APT-222-Miami-FL-33174/62930007_zpid/,8930 W Flagler St APT 222,Miami,FL,33174,425000
+zpid_62935772,for sale,25.941626,-80.27667,1051,3,2,https://www.zillow.com/homedetails/4614-NW-185th-St-Miami-Gardens-FL-33055/62935772_zpid/,4614 NW 185th St,Miami Gardens,FL,33055,310000
+zpid_62936462,for sale,25.938124,-80.21773,1708,5,4,https://www.zillow.com/homedetails/930-NW-179th-St-Miami-Gardens-FL-33169/62936462_zpid/,930 NW 179th St,Miami Gardens,FL,33169,620000
+zpid_62937230,for sale,25.924818,-80.25176,1216,3,2,https://www.zillow.com/homedetails/3101-NW-165th-St-Miami-Gardens-FL-33054/62937230_zpid/,3101 NW 165th St,Miami Gardens,FL,33054,489000
+zpid_63182947,for sale,25.690332,-80.30486,813,2,1,https://www.zillow.com/homedetails/8607-SW-68th-Ct-APT-2-Pinecrest-FL-33156/63182947_zpid/,8607 SW 68th Ct APT 2,Pinecrest,FL,33156,349500
+zpid_63614314,for sale,25.794382,-80.203674,1114,4,2,https://www.zillow.com/homedetails/1984-NW-4th-Ct-308-Miami-FL-33136/63614314_zpid/,1984 NW 4th Ct #308,Miami,FL,33136,399000
+zpid_63614509,for sale,25.828764,-80.18539,915,1,1,https://www.zillow.com/homedetails/5701-Biscayne-Blvd-APT-801-Miami-FL-33137/63614509_zpid/,5701 Biscayne Blvd APT 801,Miami,FL,33137,429000
+zpid_63617007,for sale,25.496763,-80.41322,1789,4,2,https://www.zillow.com/homedetails/2854-NE-42nd-Ave-Homestead-FL-33033/63617007_zpid/,2854 NE 42nd Ave,Homestead,FL,33033,455000
+zpid_63617556,for sale,25.456306,-80.448074,1928,3,3,https://www.zillow.com/homedetails/1915-SE-15th-St-Homestead-FL-33035/63617556_zpid/,1915 SE 15th St,Homestead,FL,33035,499900
+zpid_63619644,for sale,25.939049,-80.34903,2878,4,3,https://www.zillow.com/homedetails/18172-NW-91st-Ct-Hialeah-FL-33018/63619644_zpid/,18172 NW 91st Ct,Hialeah,FL,33018,820000
+zpid_63877196,for sale,26.051832,-80.28418,4142,6,5,https://www.zillow.com/homedetails/5440-SW-104th-Ter-Cooper-City-FL-33328/63877196_zpid/,5440 SW 104th Ter,Cooper City,FL,33328,1349000
+zpid_63878573,for sale,25.9734,-80.35521,1450,3,3,https://www.zillow.com/homedetails/15502-SW-39th-St-293-Miramar-FL-33027/63878573_zpid/,15502 SW 39th St #293,Miramar,FL,33027,420000
+zpid_64535581,for sale,25.6946,-80.31496,1140,3,2,https://www.zillow.com/homedetails/7483-SW-82nd-St-APT-A101-Miami-FL-33143/64535581_zpid/,7483 SW 82nd St APT A101,Miami,FL,33143,430000
+zpid_64539395,for sale,25.7384,-80.240814,507,1,1,https://www.zillow.com/homedetails/2920-SW-28th-Ter-APT-304-Miami-FL-33133/64539395_zpid/,2920 SW 28th Ter APT 304,Miami,FL,33133,285000
+zpid_64556451,for sale,25.688965,-80.43534,1130,2,2,https://www.zillow.com/homedetails/8250-SW-149th-Ct-8-205-Miami-FL-33193/64556451_zpid/,8250 SW 149th Ct #8-205,Miami,FL,33193,279000
+zpid_64624103,for sale,25.76607,-80.184616,968,2,2,https://www.zillow.com/homedetails/770-Claughton-Island-Dr-APT-1504-Miami-FL-33131/64624103_zpid/,770 Claughton Island Dr APT 1504,Miami,FL,33131,590000
+zpid_64721499,for sale,25.743666,-80.237724,625,2,2,https://www.zillow.com/homedetails/2575-SW-27th-Ave-APT-409-Miami-FL-33133/64721499_zpid/,2575 SW 27th Ave APT 409,Miami,FL,33133,325000
+zpid_64780809,for sale,25.795591,-80.1881,1107,2,2,https://www.zillow.com/homedetails/2000-N-Bayshore-Dr-APT-517-Miami-FL-33137/64780809_zpid/,2000 N Bayshore Dr APT 517,Miami,FL,33137,569000
+zpid_66121602,for sale,26.074797,-80.32953,4092,5,5,https://www.zillow.com/homedetails/13540-SW-36th-Ct-Davie-FL-33330/66121602_zpid/,13540 SW 36th Ct,Davie,FL,33330,1600000
+zpid_66122197,for sale,26.07478,-80.25807,5896,4,4,https://www.zillow.com/homedetails/8362-N-Lake-Forest-Dr-Davie-FL-33328/66122197_zpid/,8362 N Lake Forest Dr,Davie,FL,33328,1200000
+zpid_66126827,for sale,26.138548,-80.12372,1990,3,4,https://www.zillow.com/homedetails/1033-NE-17th-Way-UNIT-102-Fort-Lauderdale-FL-33304/66126827_zpid/,1033 NE 17th Way UNIT 102,Fort Lauderdale,FL,33304,599000
+zpid_66134363,for sale,26.094288,-81.685356,1554,2,2,https://www.zillow.com/homedetails/7515-Firenze-Ln-Naples-FL-34114/66134363_zpid/,7515 Firenze Ln,Naples,FL,34114,569000
+zpid_66173075,for sale,25.740034,-80.219604,4914,6,7,https://www.zillow.com/homedetails/3545-E-Fairview-St-Miami-FL-33133/66173075_zpid/,3545 E Fairview St,Miami,FL,33133,3900000
+zpid_66173114,for sale,25.71475,-80.25442,5514,6,7,https://www.zillow.com/homedetails/3835-Park-Ave-Miami-FL-33133/66173114_zpid/,3835 Park Ave,Miami,FL,33133,4995000
+zpid_66173154,for sale,25.754375,-80.27199,2950,5,4,https://www.zillow.com/homedetails/821-Majorca-Ave-Coral-Gables-FL-33134/66173154_zpid/,821 Majorca Ave,Coral Gables,FL,33134,2400000
+zpid_66173727,for sale,,,3708,4,3,https://www.zillow.com/homedetails/Miami-FL-33175/66173727_zpid/,(undisclosed Address),Miami,FL,33175,1850000
+zpid_66175426,for sale,25.482586,-80.424164,1921,4,3,https://www.zillow.com/homedetails/1074-NE-35th-Ave-Homestead-FL-33033/66175426_zpid/,1074 NE 35th Ave,Homestead,FL,33033,515000
+zpid_66177212,for sale,25.762072,-80.147766,3580,3,4,https://www.zillow.com/homedetails/5143-Fisher-Island-Dr-5143-Miami-Beach-FL-33109/66177212_zpid/,5143 Fisher Island Dr #5143,Miami Beach,FL,33109,6500000
+zpid_66672940,for sale,26.200518,-81.74136,1580,3,3,https://www.zillow.com/homedetails/1208-Oxford-Ln-Naples-FL-34105/66672940_zpid/,1208 Oxford Ln,Naples,FL,34105,415000
+zpid_67078911,for sale,25.479002,-80.41612,2180,5,3,https://www.zillow.com/homedetails/965-NE-41st-Ter-Homestead-FL-33033/67078911_zpid/,965 NE 41st Ter,Homestead,FL,33033,515000
+zpid_67089827,for sale,25.761799,-80.19058,825,1,1,https://www.zillow.com/homedetails/1200-Brickell-Bay-Dr-APT-2022-Miami-FL-33131/67089827_zpid/,1200 Brickell Bay Dr APT 2022,Miami,FL,33131,530000
+zpid_67831183,for sale,26.061117,-80.29821,3078,4,3,https://www.zillow.com/homedetails/4808-Tropicana-Ave-Cooper-City-FL-33330/67831183_zpid/,4808 Tropicana Ave,Cooper City,FL,33330,1050000
+zpid_67832634,for sale,26.078598,-80.296814,4376,6,6,https://www.zillow.com/homedetails/3409-Bradenham-Ln-Davie-FL-33328/67832634_zpid/,3409 Bradenham Ln,Davie,FL,33328,1999000
+zpid_67846403,for sale,26.115728,-80.13781,808,1,1,https://www.zillow.com/homedetails/520-SE-5th-Ave-APT-3205-Fort-Lauderdale-FL-33301/67846403_zpid/,520 SE 5th Ave APT 3205,Fort Lauderdale,FL,33301,350000
+zpid_67848442,for sale,26.013632,-80.28502,914,2,2,https://www.zillow.com/homedetails/10449-NW-8th-St-106-Hollywood-FL-33026/67848442_zpid/,10449 NW 8th St #106,Hollywood,FL,33026,285000
+zpid_68096971,for sale,26.352713,-81.777534,1144,3,2,https://www.zillow.com/homedetails/26250-Cape-Verde-Ln-Bonita-Springs-FL-34135/68096971_zpid/,26250 Cape Verde Ln,Bonita Springs,FL,34135,345000
+zpid_68969609,for sale,26.292309,-81.75756,1580,3,3,https://www.zillow.com/homedetails/16149-Caldera-Ln-Naples-FL-34110/68969609_zpid/,16149 Caldera Ln,Naples,FL,34110,429900
+zpid_70599722,for sale,25.732395,-80.235085,4026,4,6,https://www.zillow.com/homedetails/2627-S-Bayshore-Dr-APT-2501-Miami-FL-33133/70599722_zpid/,2627 S Bayshore Dr APT 2501,Miami,FL,33133,6600000
+zpid_70603352,for sale,25.78006,-80.27623,1308,3,2,https://www.zillow.com/homedetails/5077-NW-7th-St-TS2-Miami-FL-33126/70603352_zpid/,5077 NW 7th St #TS2,Miami,FL,33126,585000
+zpid_70761164,for sale,25.86364,-80.1863,2796,5,4,https://www.zillow.com/homedetails/530-NE-96th-St-Miami-Shores-FL-33138/70761164_zpid/,530 NE 96th St,Miami Shores,FL,33138,2095000
+zpid_70764226,for sale,25.742832,-80.26715,2051,4,4,https://www.zillow.com/homedetails/615-Santander-Ave-APT-C-Coral-Gables-FL-33134/70764226_zpid/,615 Santander Ave APT C,Coral Gables,FL,33134,1400000
+zpid_70766917,for sale,25.793947,-80.189674,1305,3,2,https://www.zillow.com/homedetails/275-NE-18th-St-APT-1208-Miami-FL-33132/70766917_zpid/,275 NE 18th St APT 1208,Miami,FL,33132,789999
+zpid_70767266,for sale,25.762094,-80.19355,1069,2,2,https://www.zillow.com/homedetails/1250-S-Miami-Ave-APT-3003-Miami-FL-33130/70767266_zpid/,1250 S Miami Ave APT 3003,Miami,FL,33130,610000
+zpid_70767617,for sale,25.771482,-80.18627,1792,3,2,https://www.zillow.com/homedetails/335-Biscayne-Blvd-APT-3009-Miami-FL-33131/70767617_zpid/,335 Biscayne Blvd APT 3009,Miami,FL,33131,1295000
+zpid_70770174,for sale,25.93621,-80.31741,648,1,1,https://www.zillow.com/homedetails/7060-NW-179th-St-APT-206-Hialeah-FL-33015/70770174_zpid/,7060 NW 179th St APT 206,Hialeah,FL,33015,220000
+zpid_70772331,for sale,25.767956,-80.186386,1257,2,3,https://www.zillow.com/homedetails/701-Brickell-Key-Blvd-PENTHOUSE-10-Miami-FL-33131/70772331_zpid/,701 Brickell Key Blvd PENTHOUSE 10,Miami,FL,33131,829000
+zpid_70772642,for sale,25.732395,-80.235085,1595,2,3,https://www.zillow.com/homedetails/2627-S-Bayshore-Dr-APT-1408-Miami-FL-33133/70772642_zpid/,2627 S Bayshore Dr APT 1408,Miami,FL,33133,2950000
+zpid_70772921,for sale,25.779785,-80.2773,1023,2,1,https://www.zillow.com/homedetails/5091-NW-7th-St-APT-411-Miami-FL-33126/70772921_zpid/,5091 NW 7th St APT 411,Miami,FL,33126,315000
+zpid_70773493,for sale,25.78703,-80.22473,634,1,1,https://www.zillow.com/homedetails/1740-NW-North-River-Dr-APT-612-Miami-FL-33125/70773493_zpid/,1740 NW North River Dr APT 612,Miami,FL,33125,282000
+zpid_70774121,for sale,25.793947,-80.189674,734,1,1,https://www.zillow.com/homedetails/275-NE-18th-St-APT-2001-Miami-FL-33132/70774121_zpid/,275 NE 18th St APT 2001,Miami,FL,33132,360000
+zpid_70774149,for sale,25.793947,-80.189674,1040,2,2,https://www.zillow.com/homedetails/275-NE-18th-St-APT-1203-Miami-FL-33132/70774149_zpid/,275 NE 18th St APT 1203,Miami,FL,33132,520000
+zpid_70775158,for sale,25.776896,-80.189705,712,1,1,https://www.zillow.com/homedetails/234-NE-3rd-St-APT-1508-Miami-FL-33132/70775158_zpid/,234 NE 3rd St APT 1508,Miami,FL,33132,379000
+zpid_70776421,for sale,25.771482,-80.18627,1105,2,2,https://www.zillow.com/homedetails/335-Biscayne-Blvd-2100-Miami-FL-33131/70776421_zpid/,335 Biscayne Blvd #2100,Miami,FL,33131,610000
+zpid_70776643,for sale,25.771482,-80.18627,1169,2,2,https://www.zillow.com/homedetails/335-Biscayne-Blvd-1108-Miami-FL-33131/70776643_zpid/,335 Biscayne Blvd #1108,Miami,FL,33131,635000
+zpid_70779074,for sale,25.762844,-80.2595,525,1,1,https://www.zillow.com/homedetails/223-Calabria-Ave-APT-8-Coral-Gables-FL-33134/70779074_zpid/,223 Calabria Ave APT 8,Coral Gables,FL,33134,260000
+zpid_70783843,for sale,25.943245,-80.29703,1004,2,2,https://www.zillow.com/homedetails/6135-NW-186th-St-APT-201-Hialeah-FL-33015/70783843_zpid/,6135 NW 186th St APT 201,Hialeah,FL,33015,300000
+zpid_70785448,for sale,25.93621,-80.31741,648,1,1,https://www.zillow.com/homedetails/7060-NW-179th-St-APT-207-Hialeah-FL-33015/70785448_zpid/,7060 NW 179th St APT 207,Hialeah,FL,33015,220000
+zpid_70787221,for sale,25.7351,-80.38326,982,2,2,https://www.zillow.com/homedetails/3611-SW-117th-Ave-10-107-Miami-FL-33165/70787221_zpid/,3611 SW 117th Ave #10-107,Miami,FL,33165,305000
+zpid_70787536,for sale,25.689188,-80.370705,901,2,2,https://www.zillow.com/homedetails/8500-SW-109th-Ave-6203-Miami-FL-33173/70787536_zpid/,8500 SW 109th Ave #6203,Miami,FL,33173,270000
+zpid_71729257,for sale,26.216059,-80.27847,1408,3,2,https://www.zillow.com/homedetails/7680-Westwood-Dr-APT-802-Tamarac-FL-33321/71729257_zpid/,7680 Westwood Dr APT 802,Tamarac,FL,33321,299990
+zpid_71732272,for sale,26.151133,-80.130135,725,2,1,https://www.zillow.com/homedetails/1340-NE-18th-St-APT-4-Fort-Lauderdale-FL-33305/71732272_zpid/,1340 NE 18th St APT 4,Fort Lauderdale,FL,33305,325000
+zpid_72181819,for sale,26.115585,-80.16635,1858,3,3,https://www.zillow.com/homedetails/525-SW-18th-Ave-UNIT-22-Fort-Lauderdale-FL-33312/72181819_zpid/,525 SW 18th Ave UNIT 22,Fort Lauderdale,FL,33312,550000
+zpid_72184771,for sale,26.140778,-80.12324,2022,3,3,https://www.zillow.com/homedetails/1758-NE-12th-St-Fort-Lauderdale-FL-33304/72184771_zpid/,1758 NE 12th St,Fort Lauderdale,FL,33304,800000
+zpid_72565506,for sale,25.767841,-80.19623,1113,2,3,https://www.zillow.com/homedetails/690-SW-1st-Ct-APT-2314-Miami-FL-33130/72565506_zpid/,690 SW 1st Ct APT 2314,Miami,FL,33130,589900
+zpid_72572469,for sale,25.754524,-80.44822,2952,5,4,https://www.zillow.com/homedetails/15649-SW-13th-Ter-Miami-FL-33194/72572469_zpid/,15649 SW 13th Ter,Miami,FL,33194,639500
+zpid_72576155,for sale,25.87045,-80.309006,810,1,2,https://www.zillow.com/homedetails/1305-W-53rd-St-APT-429-Hialeah-FL-33012/72576155_zpid/,1305 W 53rd St APT 429,Hialeah,FL,33012,240000
+zpid_72578604,for sale,25.864618,-80.28225,748,2,1,https://www.zillow.com/homedetails/4655-Palm-Ave-APT-335-Hialeah-FL-33012/72578604_zpid/,4655 Palm Ave APT 335,Hialeah,FL,33012,225000
+zpid_72672563,for sale,26.142385,-80.197586,2050,3,3,https://www.zillow.com/homedetails/3606-NW-13th-St-Lauderhill-FL-33311/72672563_zpid/,3606 NW 13th St,Lauderhill,FL,33311,360000
+zpid_79586979,for sale,26.017122,-80.20153,1338,2,3,https://www.zillow.com/homedetails/5645-Lincoln-St-Hollywood-FL-33021/79586979_zpid/,5645 Lincoln St,Hollywood,FL,33021,472000
+zpid_79858421,for sale,25.869247,-80.12214,429,1,1,https://www.zillow.com/homedetails/8415-Harding-Ave-APT-14-Miami-Beach-FL-33141/79858421_zpid/,8415 Harding Ave APT 14,Miami Beach,FL,33141,200000
+zpid_80136850,for sale,26.010237,-80.149925,1185,2,2,https://www.zillow.com/homedetails/140-S-Dixie-Hwy-APT-409-Hollywood-FL-33020/80136850_zpid/,140 S Dixie Hwy APT 409,Hollywood,FL,33020,356000
+zpid_80137667,for sale,26.011053,-80.14951,1220,2,2,https://www.zillow.com/homedetails/140-S-Dixie-Hwy-APT-403-Hollywood-FL-33020/80137667_zpid/,140 S Dixie Hwy APT 403,Hollywood,FL,33020,349000
+zpid_80786341,for sale,,,1123,3,3,https://www.zillow.com/homedetails/Miami-Gardens-FL-33169/80786341_zpid/,(undisclosed Address),Miami Gardens,FL,33169,360000
+zpid_80790999,for sale,25.859638,-80.130424,2393,3,4,https://www.zillow.com/homedetails/179-N-Shore-Dr-4-Miami-Beach-FL-33141/80790999_zpid/,179 N Shore Dr #4,Miami Beach,FL,33141,1295000
+zpid_81797549,for sale,26.046515,-81.68529,1056,2,2,https://www.zillow.com/homedetails/77-Peach-Palm-Ln-Naples-FL-34114/81797549_zpid/,77 Peach Palm Ln,Naples,FL,34114,139000
+zpid_81799231,for sale,26.207977,-81.52887,2603,4,3,https://www.zillow.com/homedetails/3858-12th-Ave-SE-Naples-FL-34117/81799231_zpid/,3858 12th Ave SE,Naples,FL,34117,715000
+zpid_82061556,for sale,25.556986,-80.333534,1139,2,3,https://www.zillow.com/homedetails/22711-SW-88th-Pl-UNIT-4-23-Cutler-Bay-FL-33190/82061556_zpid/,22711 SW 88th Pl UNIT 4-23,Cutler Bay,FL,33190,345000
+zpid_82068206,for sale,25.756245,-80.23878,917,2,2,https://www.zillow.com/homedetails/1690-SW-27th-Ave-APT-308-Miami-FL-33145/82068206_zpid/,1690 SW 27th Ave APT 308,Miami,FL,33145,369500
+zpid_82069552,for sale,25.776102,-80.18969,1010,2,2,https://www.zillow.com/homedetails/133-NE-2nd-Ave-APT-3106-Miami-FL-33132/82069552_zpid/,133 NE 2nd Ave APT 3106,Miami,FL,33132,570000
+zpid_82072101,for sale,25.756245,-80.23878,1040,2,2,https://www.zillow.com/homedetails/1690-SW-27th-Ave-APT-602-Miami-FL-33145/82072101_zpid/,1690 SW 27th Ave APT 602,Miami,FL,33145,375000
+zpid_82411247,for sale,25.769,-80.19183,1289,2,2,https://www.zillow.com/homedetails/41-SE-5th-St-APT-316-Miami-FL-33131/82411247_zpid/,41 SE 5th St APT 316,Miami,FL,33131,720000
+zpid_82417861,for sale,25.75097,-80.255714,908,1,1,https://www.zillow.com/homedetails/55-Merrick-Way-APT-605-Coral-Gables-FL-33134/82417861_zpid/,55 Merrick Way APT 605,Coral Gables,FL,33134,525000
+zpid_82419234,for sale,25.936306,-80.31087,1376,2,3,https://www.zillow.com/homedetails/17911-NW-68th-Ave-APT-M204-Hialeah-FL-33015/82419234_zpid/,17911 NW 68th Ave APT M204,Hialeah,FL,33015,315000
+zpid_83906224,for sale,26.10533,-80.14869,2179,3,3,https://www.zillow.com/homedetails/514-SW-13th-St-Fort-Lauderdale-FL-33315/83906224_zpid/,514 SW 13th St,Fort Lauderdale,FL,33315,849000
+zpid_84645739,for sale,25.710785,-80.3604,2496,7,4,https://www.zillow.com/homedetails/10295-SW-62nd-St-Miami-FL-33173/84645739_zpid/,10295 SW 62nd St,Miami,FL,33173,1900000
+zpid_87937804,for sale,25.794622,-80.187065,1325,2,3,https://www.zillow.com/homedetails/1900-N-Bayshore-Dr-APT-3715-Miami-FL-33132/87937804_zpid/,1900 N Bayshore Dr APT 3715,Miami,FL,33132,825000
+zpid_92437860,for sale,25.768757,-80.18881,1012,2,2,https://www.zillow.com/homedetails/475-Brickell-Ave-APT-4413-Miami-FL-33131/92437860_zpid/,475 Brickell Ave APT 4413,Miami,FL,33131,860000
+zpid_92445918,for sale,25.76909,-80.188705,798,1,1,https://www.zillow.com/homedetails/475-Brickell-Ave-APT-5014-Miami-FL-33131/92445918_zpid/,475 Brickell Ave APT 5014,Miami,FL,33131,650000
+zpid_92447218,for sale,25.762762,-80.19471,1108,2,2,https://www.zillow.com/homedetails/79-SW-12th-St-APT-3007-Miami-FL-33130/92447218_zpid/,79 SW 12th St APT 3007,Miami,FL,33130,665000
+zpid_92448959,for sale,25.785149,-80.19002,1498,2,3,https://www.zillow.com/homedetails/1100-Biscayne-Blvd-UNIT-4703-Miami-FL-33132/92448959_zpid/,1100 Biscayne Blvd UNIT 4703,Miami,FL,33132,1200000
+zpid_92449569,for sale,25.785149,-80.19002,1647,2,3,https://www.zillow.com/homedetails/1100-Biscayne-Blvd-UNIT-2508-Miami-FL-33132/92449569_zpid/,1100 Biscayne Blvd UNIT 2508,Miami,FL,33132,999000
+zpid_92449642,for sale,25.762762,-80.19471,707,1,1,https://www.zillow.com/homedetails/79-SW-12th-St-PENTHOUSE-3908S-Miami-FL-33130/92449642_zpid/,79 SW 12th St PENTHOUSE 3908S,Miami,FL,33130,460000
+zpid_92450072,for sale,25.771229,-80.18739,1017,2,2,https://www.zillow.com/homedetails/300-Biscayne-Blvd-T1902-Miami-FL-33131/92450072_zpid/,300 Biscayne Blvd #T1902,Miami,FL,33131,635000
+zpid_92450259,for sale,25.763273,-80.19219,1440,2,2,https://www.zillow.com/homedetails/1060-Brickell-Ave-APT-1003-Miami-FL-33131/92450259_zpid/,1060 Brickell Ave APT 1003,Miami,FL,33131,720000
